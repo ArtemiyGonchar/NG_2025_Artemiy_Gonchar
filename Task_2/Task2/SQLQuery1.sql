@@ -13,7 +13,7 @@ BEGIN TRANSACTION;
 ---EXEC CreateComment @Text = 'Epic',@UserId = 2, @ProjectId = 3;
 ---EXEC CreateVote @UserId = 1, @ProjectId = 3;
 ---EXEC ProjectInfo @ProjectId = 3;
----EXEC PaginatedProjects @CategoryId= 1, @Page = 0;
+---EXEC PaginatedProjects @Name = 'asd',@PageSkip = 0, @PageTake = 10;
 
 CREATE TABLE [User] (
 	Id INT IDENTITY PRIMARY KEY,
@@ -107,15 +107,21 @@ GO
 CREATE PROCEDURE PaginatedProjects
 	@Name VARCHAR(100) = NULL,
 	@CategoryId INT = NULL,
-	@Page INT
+	@PageSkip INT,
+	@PageTake INT,
+	@FromDate DATE = NULL,
+	@ToDate DATE = NULL
 AS
 BEGIN
 	SELECT p.Id, p.Name, c.Description, p.CreationDate FROM Project p
 	JOIN Category c on p.CategoryId = c.Id
 	WHERE
-	(@Name IS NULL OR p.Name = @Name) AND (@CategoryId IS NULL OR p.CategoryId = @CategoryId)
-	ORDER BY p.CreationDate
-	OFFSET @Page ROWS FETCH NEXT 10 ROWS ONLY;
+	(@Name IS NULL OR p.Name LIKE '%'+ @Name +'%') 
+	AND (@CategoryId IS NULL OR p.CategoryId = @CategoryId)
+	AND (@FromDate IS NULL OR p.CreationDate >= @FromDate)
+	AND (@ToDate IS NULL OR p.CreationDate <= @ToDate)
+	ORDER BY p.Id
+	OFFSET @PageSkip ROWS FETCH NEXT @PageTake ROWS ONLY;
 END;
 GO
 COMMIT;
