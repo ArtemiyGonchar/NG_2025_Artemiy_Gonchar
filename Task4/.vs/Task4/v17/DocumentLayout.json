@@ -1,0 +1,879 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD051AB-46F3-48A0-8A18-525E4071FB5E}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\businesslogiclayer\\businesslogiclayerinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD051AB-46F3-48A0-8A18-525E4071FB5E}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\businesslogiclayerinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD051AB-46F3-48A0-8A18-525E4071FB5E}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\businesslogiclayer\\models\\projectmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD051AB-46F3-48A0-8A18-525E4071FB5E}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\models\\projectmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD051AB-46F3-48A0-8A18-525E4071FB5E}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\businesslogiclayer\\models\\commentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD051AB-46F3-48A0-8A18-525E4071FB5E}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\models\\commentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD051AB-46F3-48A0-8A18-525E4071FB5E}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\businesslogiclayer\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD051AB-46F3-48A0-8A18-525E4071FB5E}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD051AB-46F3-48A0-8A18-525E4071FB5E}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\businesslogiclayer\\services\\classes\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD051AB-46F3-48A0-8A18-525E4071FB5E}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\services\\classes\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD051AB-46F3-48A0-8A18-525E4071FB5E}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\businesslogiclayer\\services\\classes\\voteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD051AB-46F3-48A0-8A18-525E4071FB5E}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\services\\classes\\voteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD051AB-46F3-48A0-8A18-525E4071FB5E}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\businesslogiclayer\\services\\classes\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD051AB-46F3-48A0-8A18-525E4071FB5E}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\services\\classes\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD051AB-46F3-48A0-8A18-525E4071FB5E}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\businesslogiclayer\\services\\classes\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD051AB-46F3-48A0-8A18-525E4071FB5E}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\services\\classes\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD051AB-46F3-48A0-8A18-525E4071FB5E}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\businesslogiclayer\\services\\interfaces\\icommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD051AB-46F3-48A0-8A18-525E4071FB5E}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\services\\interfaces\\icommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD051AB-46F3-48A0-8A18-525E4071FB5E}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\businesslogiclayer\\services\\interfaces\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD051AB-46F3-48A0-8A18-525E4071FB5E}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\services\\interfaces\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\dataacceslayer\\repositories\\interface\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|solutionrelative:dataacceslayer\\repositories\\interface\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\dataacceslayer\\repositories\\interface\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|solutionrelative:dataacceslayer\\repositories\\interface\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\dataacceslayer\\repositories\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|solutionrelative:dataacceslayer\\repositories\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B90E54-1401-4A03-8800-61BFB5E68095}|Task4\\Task4.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B90E54-1401-4A03-8800-61BFB5E68095}|Task4\\Task4.csproj|solutionrelative:task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B90E54-1401-4A03-8800-61BFB5E68095}|Task4\\Task4.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\task4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B90E54-1401-4A03-8800-61BFB5E68095}|Task4\\Task4.csproj|solutionrelative:task4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\dataacceslayer\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|solutionrelative:dataacceslayer\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD051AB-46F3-48A0-8A18-525E4071FB5E}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\businesslogiclayer\\models\\votemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD051AB-46F3-48A0-8A18-525E4071FB5E}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\models\\votemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\dataacceslayer\\entities\\vote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|solutionrelative:dataacceslayer\\entities\\vote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD051AB-46F3-48A0-8A18-525E4071FB5E}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\businesslogiclayer\\mapping\\automapperbllprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD051AB-46F3-48A0-8A18-525E4071FB5E}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\mapping\\automapperbllprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\dataacceslayer\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|solutionrelative:dataacceslayer\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\dataacceslayer\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|solutionrelative:dataacceslayer\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\dataacceslayer\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|solutionrelative:dataacceslayer\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\dataacceslayer\\repositories\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|solutionrelative:dataacceslayer\\repositories\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\dataacceslayer\\repositories\\interface\\ivoterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|solutionrelative:dataacceslayer\\repositories\\interface\\ivoterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\dataacceslayer\\repositories\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|solutionrelative:dataacceslayer\\repositories\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\dataacceslayer\\repositories\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|solutionrelative:dataacceslayer\\repositories\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\dataacceslayer\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|solutionrelative:dataacceslayer\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD051AB-46F3-48A0-8A18-525E4071FB5E}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\businesslogiclayer\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD051AB-46F3-48A0-8A18-525E4071FB5E}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD051AB-46F3-48A0-8A18-525E4071FB5E}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\businesslogiclayer\\services\\classes\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD051AB-46F3-48A0-8A18-525E4071FB5E}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\services\\classes\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\dataacceslayer\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|solutionrelative:dataacceslayer\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD051AB-46F3-48A0-8A18-525E4071FB5E}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\businesslogiclayer\\services\\interfaces\\ivoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD051AB-46F3-48A0-8A18-525E4071FB5E}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\services\\interfaces\\ivoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD051AB-46F3-48A0-8A18-525E4071FB5E}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\businesslogiclayer\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD051AB-46F3-48A0-8A18-525E4071FB5E}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD051AB-46F3-48A0-8A18-525E4071FB5E}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\businesslogiclayer\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD051AB-46F3-48A0-8A18-525E4071FB5E}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\dataacceslayer\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|solutionrelative:dataacceslayer\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\dataacceslayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|solutionrelative:dataacceslayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\dataacceslayer\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|solutionrelative:dataacceslayer\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\dataacceslayer\\configurations\\voteconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|solutionrelative:dataacceslayer\\configurations\\voteconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\dataacceslayer\\initializer\\initializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|solutionrelative:dataacceslayer\\initializer\\initializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\dataacceslayer\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|solutionrelative:dataacceslayer\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\dataacceslayer\\configurations\\commentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|solutionrelative:dataacceslayer\\configurations\\commentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\dataacceslayer\\configurations\\projectconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|solutionrelative:dataacceslayer\\configurations\\projectconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\dataacceslayer\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|solutionrelative:dataacceslayer\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B90E54-1401-4A03-8800-61BFB5E68095}|Task4\\Task4.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\task4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{01B90E54-1401-4A03-8800-61BFB5E68095}|Task4\\Task4.csproj|solutionrelative:task4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\dataacceslayer\\migrations\\crowdfundingdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|solutionrelative:dataacceslayer\\migrations\\crowdfundingdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\dataacceslayer\\dataacceslayerinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|solutionrelative:dataacceslayer\\dataacceslayerinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\dataacceslayer\\dataacceslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|solutionrelative:dataacceslayer\\dataacceslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\dataacceslayer\\databasecontext\\crowdfundingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|solutionrelative:dataacceslayer\\databasecontext\\crowdfundingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B90E54-1401-4A03-8800-61BFB5E68095}|Task4\\Task4.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\task4\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{01B90E54-1401-4A03-8800-61BFB5E68095}|Task4\\Task4.csproj|solutionrelative:task4\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD051AB-46F3-48A0-8A18-525E4071FB5E}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\businesslogiclayer\\businesslogiclayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2BD051AB-46F3-48A0-8A18-525E4071FB5E}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\businesslogiclayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD051AB-46F3-48A0-8A18-525E4071FB5E}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\businesslogiclayer\\businesslogiclayer.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2BD051AB-46F3-48A0-8A18-525E4071FB5E}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\businesslogiclayer.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\dataacceslayer\\repositories\\voterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|solutionrelative:dataacceslayer\\repositories\\voterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task4\\dataacceslayer\\migrations\\20250306151643_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643EEA82-5956-4761-89F9-FB5ABF8C3C0E}|DataAccesLayer\\DataAccesLayer.csproj|solutionrelative:dataacceslayer\\migrations\\20250306151643_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICommentService.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\BusinessLogicLayer\\Services\\Interfaces\\ICommentService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Services\\Interfaces\\ICommentService.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\BusinessLogicLayer\\Services\\Interfaces\\ICommentService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Services\\Interfaces\\ICommentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T14:39:07.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\BusinessLogicLayer\\Services\\Classes\\CategoryService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Services\\Classes\\CategoryService.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\BusinessLogicLayer\\Services\\Classes\\CategoryService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Services\\Classes\\CategoryService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T14:38:18.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CommentService.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\BusinessLogicLayer\\Services\\Classes\\CommentService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Services\\Classes\\CommentService.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\BusinessLogicLayer\\Services\\Classes\\CommentService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Services\\Classes\\CommentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T14:51:34.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\BusinessLogicLayer\\Services\\Classes\\UserService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Services\\Classes\\UserService.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\BusinessLogicLayer\\Services\\Classes\\UserService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Services\\Classes\\UserService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T14:51:51.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VoteService.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\BusinessLogicLayer\\Services\\Classes\\VoteService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Services\\Classes\\VoteService.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\BusinessLogicLayer\\Services\\Classes\\VoteService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Services\\Classes\\VoteService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwB4AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T14:51:54.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryModel.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\BusinessLogicLayer\\Models\\CategoryModel.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Models\\CategoryModel.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\BusinessLogicLayer\\Models\\CategoryModel.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Models\\CategoryModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T13:17:49.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CommentModel.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\BusinessLogicLayer\\Models\\CommentModel.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Models\\CommentModel.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\BusinessLogicLayer\\Models\\CommentModel.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Models\\CommentModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T13:18:17.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectModel.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\BusinessLogicLayer\\Models\\ProjectModel.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Models\\ProjectModel.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\BusinessLogicLayer\\Models\\ProjectModel.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Models\\ProjectModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T13:18:26.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BusinessLogicLayerInjection.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\BusinessLogicLayer\\BusinessLogicLayerInjection.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\BusinessLogicLayerInjection.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\BusinessLogicLayer\\BusinessLogicLayerInjection.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\BusinessLogicLayerInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T12:51:22.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProjectService.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\BusinessLogicLayer\\Services\\Interfaces\\IProjectService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Services\\Interfaces\\IProjectService.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\BusinessLogicLayer\\Services\\Interfaces\\IProjectService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Services\\Interfaces\\IProjectService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T14:39:13.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProjectRepository.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Repositories\\Interface\\IProjectRepository.cs",
+              "RelativeDocumentMoniker": "DataAccesLayer\\Repositories\\Interface\\IProjectRepository.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Repositories\\Interface\\IProjectRepository.cs",
+              "RelativeToolTip": "DataAccesLayer\\Repositories\\Interface\\IProjectRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T13:44:36.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICommentRepository.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Repositories\\Interface\\ICommentRepository.cs",
+              "RelativeDocumentMoniker": "DataAccesLayer\\Repositories\\Interface\\ICommentRepository.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Repositories\\Interface\\ICommentRepository.cs",
+              "RelativeToolTip": "DataAccesLayer\\Repositories\\Interface\\ICommentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T13:44:28.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Repositories\\Interface\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "DataAccesLayer\\Repositories\\Interface\\ICategoryRepository.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Repositories\\Interface\\ICategoryRepository.cs",
+              "RelativeToolTip": "DataAccesLayer\\Repositories\\Interface\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T13:44:06.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\Task4\\Program.cs",
+              "RelativeDocumentMoniker": "Task4\\Program.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\Task4\\Program.cs",
+              "RelativeToolTip": "Task4\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAYwDEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T13:08:23.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Vote.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Entities\\Vote.cs",
+              "RelativeDocumentMoniker": "DataAccesLayer\\Entities\\Vote.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Entities\\Vote.cs",
+              "RelativeToolTip": "DataAccesLayer\\Entities\\Vote.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T14:52:29.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "VoteModel.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\BusinessLogicLayer\\Models\\VoteModel.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Models\\VoteModel.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\BusinessLogicLayer\\Models\\VoteModel.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Models\\VoteModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T13:18:43.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\Task4\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Task4\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\Task4\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Task4\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAcwGEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T13:32:35.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "DataAccesLayer\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Repositories\\Repository.cs",
+              "RelativeToolTip": "DataAccesLayer\\Repositories\\Repository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAnwCEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T15:46:24.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AutomapperBLLProfile.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\BusinessLogicLayer\\Mapping\\AutomapperBLLProfile.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Mapping\\AutomapperBLLProfile.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\BusinessLogicLayer\\Mapping\\AutomapperBLLProfile.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Mapping\\AutomapperBLLProfile.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAewDUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T13:03:57.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "DataAccesLayer\\Entities\\Comment.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Entities\\Comment.cs",
+              "RelativeToolTip": "DataAccesLayer\\Entities\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T14:52:22.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "DataAccesLayer\\Entities\\Category.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Entities\\Category.cs",
+              "RelativeToolTip": "DataAccesLayer\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T13:58:43.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "DataAccesLayer\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "DataAccesLayer\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:12:54.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProjectRepository.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Repositories\\ProjectRepository.cs",
+              "RelativeDocumentMoniker": "DataAccesLayer\\Repositories\\ProjectRepository.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Repositories\\ProjectRepository.cs",
+              "RelativeToolTip": "DataAccesLayer\\Repositories\\ProjectRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:13:24.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IVoteRepository.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Repositories\\Interface\\IVoteRepository.cs",
+              "RelativeDocumentMoniker": "DataAccesLayer\\Repositories\\Interface\\IVoteRepository.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Repositories\\Interface\\IVoteRepository.cs",
+              "RelativeToolTip": "DataAccesLayer\\Repositories\\Interface\\IVoteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T13:44:50.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Repositories\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "DataAccesLayer\\Repositories\\Interface\\IUserRepository.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Repositories\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "DataAccesLayer\\Repositories\\Interface\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T13:44:43.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Repositories\\Interface\\IRepository.cs",
+              "RelativeDocumentMoniker": "DataAccesLayer\\Repositories\\Interface\\IRepository.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Repositories\\Interface\\IRepository.cs",
+              "RelativeToolTip": "DataAccesLayer\\Repositories\\Interface\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T13:47:50.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Repositories\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "DataAccesLayer\\Repositories\\CommentRepository.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Repositories\\CommentRepository.cs",
+              "RelativeToolTip": "DataAccesLayer\\Repositories\\CommentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:13:00.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\BusinessLogicLayer\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Models\\UserModel.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\BusinessLogicLayer\\Models\\UserModel.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Models\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T13:18:30.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Entities\\Project.cs",
+              "RelativeDocumentMoniker": "DataAccesLayer\\Entities\\Project.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Entities\\Project.cs",
+              "RelativeToolTip": "DataAccesLayer\\Entities\\Project.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T14:51:46.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProjectService.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\BusinessLogicLayer\\Services\\Classes\\ProjectService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Services\\Classes\\ProjectService.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\BusinessLogicLayer\\Services\\Classes\\ProjectService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Services\\Classes\\ProjectService.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowDgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T14:51:46.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\BusinessLogicLayer\\Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\BusinessLogicLayer\\Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T14:39:17.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IVoteService.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\BusinessLogicLayer\\Services\\Interfaces\\IVoteService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Services\\Interfaces\\IVoteService.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\BusinessLogicLayer\\Services\\Interfaces\\IVoteService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Services\\Interfaces\\IVoteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T14:39:21.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\BusinessLogicLayer\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Services\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\BusinessLogicLayer\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Services\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T14:38:38.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DataAccesLayer\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "DataAccesLayer\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:13:32.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "DataAccesLayer\\Entities\\User.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Entities\\User.cs",
+              "RelativeToolTip": "DataAccesLayer\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T14:51:24.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "DataAccesLayer\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "DataAccesLayer\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T14:50:23.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ProjectConfiguration.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Configurations\\ProjectConfiguration.cs",
+              "RelativeDocumentMoniker": "DataAccesLayer\\Configurations\\ProjectConfiguration.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Configurations\\ProjectConfiguration.cs",
+              "RelativeToolTip": "DataAccesLayer\\Configurations\\ProjectConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T16:12:01.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "VoteConfiguration.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Configurations\\VoteConfiguration.cs",
+              "RelativeDocumentMoniker": "DataAccesLayer\\Configurations\\VoteConfiguration.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Configurations\\VoteConfiguration.cs",
+              "RelativeToolTip": "DataAccesLayer\\Configurations\\VoteConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T16:12:20.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CommentConfiguration.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Configurations\\CommentConfiguration.cs",
+              "RelativeDocumentMoniker": "DataAccesLayer\\Configurations\\CommentConfiguration.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Configurations\\CommentConfiguration.cs",
+              "RelativeToolTip": "DataAccesLayer\\Configurations\\CommentConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T16:11:54.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "DataAccesLayer\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "DataAccesLayer\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T16:12:10.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Configurations\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "DataAccesLayer\\Configurations\\CategoryConfiguration.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Configurations\\CategoryConfiguration.cs",
+              "RelativeToolTip": "DataAccesLayer\\Configurations\\CategoryConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T16:11:42.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Initializer.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Initializer\\Initializer.cs",
+              "RelativeDocumentMoniker": "DataAccesLayer\\Initializer\\Initializer.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Initializer\\Initializer.cs",
+              "RelativeToolTip": "DataAccesLayer\\Initializer\\Initializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T13:12:54.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\Task4\\appsettings.json",
+              "RelativeDocumentMoniker": "Task4\\appsettings.json",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\Task4\\appsettings.json",
+              "RelativeToolTip": "Task4\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-06T13:30:05.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CrowdfundingDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Migrations\\CrowdfundingDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "DataAccesLayer\\Migrations\\CrowdfundingDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Migrations\\CrowdfundingDbContextModelSnapshot.cs",
+              "RelativeToolTip": "DataAccesLayer\\Migrations\\CrowdfundingDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T15:18:43.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CrowdfundingDbContext.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\DatabaseContext\\CrowdfundingDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccesLayer\\DatabaseContext\\CrowdfundingDbContext.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\DatabaseContext\\CrowdfundingDbContext.cs",
+              "RelativeToolTip": "DataAccesLayer\\DatabaseContext\\CrowdfundingDbContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAuwA0AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T13:50:10.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "DataAccesLayerInjection.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\DataAccesLayerInjection.cs",
+              "RelativeDocumentMoniker": "DataAccesLayer\\DataAccesLayerInjection.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\DataAccesLayerInjection.cs",
+              "RelativeToolTip": "DataAccesLayer\\DataAccesLayerInjection.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T13:20:14.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20250306151643_InitialDB.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Migrations\\20250306151643_InitialDB.cs",
+              "RelativeDocumentMoniker": "DataAccesLayer\\Migrations\\20250306151643_InitialDB.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Migrations\\20250306151643_InitialDB.cs",
+              "RelativeToolTip": "DataAccesLayer\\Migrations\\20250306151643_InitialDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T15:16:43.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\Task4\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Task4\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\Task4\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Task4\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-06T14:35:55.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "DataAccesLayer.csproj",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\DataAccesLayer.csproj",
+              "RelativeDocumentMoniker": "DataAccesLayer\\DataAccesLayer.csproj",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\DataAccesLayer.csproj",
+              "RelativeToolTip": "DataAccesLayer\\DataAccesLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-01T13:39:53.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "BusinessLogicLayer.csproj",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "RelativeToolTip": "BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-04T12:52:00.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "BusinessLogicLayer",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "RelativeToolTip": "BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-04T13:42:12.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "VoteRepository.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Repositories\\VoteRepository.cs",
+              "RelativeDocumentMoniker": "DataAccesLayer\\Repositories\\VoteRepository.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task4\\DataAccesLayer\\Repositories\\VoteRepository.cs",
+              "RelativeToolTip": "DataAccesLayer\\Repositories\\VoteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:13:38.884Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

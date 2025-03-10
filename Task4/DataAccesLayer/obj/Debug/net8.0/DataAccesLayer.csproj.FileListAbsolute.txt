@@ -1,0 +1,15 @@
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task4\DataAccesLayer\bin\Debug\net8.0\DataAccesLayer.deps.json
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task4\DataAccesLayer\bin\Debug\net8.0\DataAccesLayer.runtimeconfig.json
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task4\DataAccesLayer\bin\Debug\net8.0\DataAccesLayer.dll
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task4\DataAccesLayer\bin\Debug\net8.0\DataAccesLayer.pdb
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task4\DataAccesLayer\obj\Debug\net8.0\DataAccesLayer.csproj.AssemblyReference.cache
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task4\DataAccesLayer\obj\Debug\net8.0\DataAccesLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task4\DataAccesLayer\obj\Debug\net8.0\DataAccesLayer.AssemblyInfoInputs.cache
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task4\DataAccesLayer\obj\Debug\net8.0\DataAccesLayer.AssemblyInfo.cs
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task4\DataAccesLayer\obj\Debug\net8.0\DataAccesLayer.csproj.CoreCompileInputs.cache
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task4\DataAccesLayer\obj\Debug\net8.0\DataAccesLayer.sourcelink.json
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task4\DataAccesLayer\obj\Debug\net8.0\DataAccesLayer.dll
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task4\DataAccesLayer\obj\Debug\net8.0\refint\DataAccesLayer.dll
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task4\DataAccesLayer\obj\Debug\net8.0\DataAccesLayer.pdb
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task4\DataAccesLayer\obj\Debug\net8.0\DataAccesLayer.genruntimeconfig.cache
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task4\DataAccesLayer\obj\Debug\net8.0\ref\DataAccesLayer.dll

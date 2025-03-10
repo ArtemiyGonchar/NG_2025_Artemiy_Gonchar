@@ -1,0 +1,16 @@
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task4\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.deps.json
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task4\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.dll
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task4\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.pdb
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task4\BusinessLogicLayer\bin\Debug\net8.0\DataAccesLayer.dll
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task4\BusinessLogicLayer\bin\Debug\net8.0\DataAccesLayer.pdb
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task4\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task4\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task4\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task4\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfo.cs
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task4\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task4\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.sourcelink.json
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task4\BusinessLogicLayer\obj\Debug\net8.0\Business.450209FB.Up2Date
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task4\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.dll
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task4\BusinessLogicLayer\obj\Debug\net8.0\refint\BusinessLogicLayer.dll
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task4\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.pdb
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task4\BusinessLogicLayer\obj\Debug\net8.0\ref\BusinessLogicLayer.dll
