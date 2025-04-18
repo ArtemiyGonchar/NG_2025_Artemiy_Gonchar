@@ -1,0 +1,13 @@
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\StoreManagment\StoreManagmentDAL\bin\Debug\net8.0\StoreManagmentDAL.deps.json
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\StoreManagment\StoreManagmentDAL\bin\Debug\net8.0\StoreManagmentDAL.dll
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\StoreManagment\StoreManagmentDAL\bin\Debug\net8.0\StoreManagmentDAL.pdb
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\StoreManagment\StoreManagmentDAL\obj\Debug\net8.0\StoreManagmentDAL.csproj.AssemblyReference.cache
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\StoreManagment\StoreManagmentDAL\obj\Debug\net8.0\StoreManagmentDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\StoreManagment\StoreManagmentDAL\obj\Debug\net8.0\StoreManagmentDAL.AssemblyInfoInputs.cache
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\StoreManagment\StoreManagmentDAL\obj\Debug\net8.0\StoreManagmentDAL.AssemblyInfo.cs
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\StoreManagment\StoreManagmentDAL\obj\Debug\net8.0\StoreManagmentDAL.csproj.CoreCompileInputs.cache
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\StoreManagment\StoreManagmentDAL\obj\Debug\net8.0\StoreManagmentDAL.sourcelink.json
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\StoreManagment\StoreManagmentDAL\obj\Debug\net8.0\StoreManagmentDAL.dll
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\StoreManagment\StoreManagmentDAL\obj\Debug\net8.0\refint\StoreManagmentDAL.dll
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\StoreManagment\StoreManagmentDAL\obj\Debug\net8.0\StoreManagmentDAL.pdb
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\StoreManagment\StoreManagmentDAL\obj\Debug\net8.0\ref\StoreManagmentDAL.dll

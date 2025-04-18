@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\DAL-Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62AAE113-73B5-4101-8ADA-10DA1025813B}|DAL-Core\\DAL-Core.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\dal-core\\dal-core\\entities\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62AAE113-73B5-4101-8ADA-10DA1025813B}|DAL-Core\\DAL-Core.csproj|solutionrelative:dal-core\\entities\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD3DBF5-AEB5-4144-A285-34A5472FCC1A}|DAL-Initializator\\DAL-Initializator.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\dal-core\\dal-initializator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAD3DBF5-AEB5-4144-A285-34A5472FCC1A}|DAL-Initializator\\DAL-Initializator.csproj|solutionrelative:dal-initializator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD3DBF5-AEB5-4144-A285-34A5472FCC1A}|DAL-Initializator\\DAL-Initializator.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\dal-core\\dal-initializator\\dal-initializator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AAD3DBF5-AEB5-4144-A285-34A5472FCC1A}|DAL-Initializator\\DAL-Initializator.csproj|solutionrelative:dal-initializator\\dal-initializator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62AAE113-73B5-4101-8ADA-10DA1025813B}|DAL-Core\\DAL-Core.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\dal-core\\dal-core\\petstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62AAE113-73B5-4101-8ADA-10DA1025813B}|DAL-Core\\DAL-Core.csproj|solutionrelative:dal-core\\petstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62AAE113-73B5-4101-8ADA-10DA1025813B}|DAL-Core\\DAL-Core.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\dal-core\\dal-core\\entities\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62AAE113-73B5-4101-8ADA-10DA1025813B}|DAL-Core\\DAL-Core.csproj|solutionrelative:dal-core\\entities\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62AAE113-73B5-4101-8ADA-10DA1025813B}|DAL-Core\\DAL-Core.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\dal-core\\dal-core\\entities\\healthcare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62AAE113-73B5-4101-8ADA-10DA1025813B}|DAL-Core\\DAL-Core.csproj|solutionrelative:dal-core\\entities\\healthcare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62AAE113-73B5-4101-8ADA-10DA1025813B}|DAL-Core\\DAL-Core.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\dal-core\\dal-core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62AAE113-73B5-4101-8ADA-10DA1025813B}|DAL-Core\\DAL-Core.csproj|solutionrelative:dal-core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62AAE113-73B5-4101-8ADA-10DA1025813B}|DAL-Core\\DAL-Core.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\dal-core\\dal-core\\configuration\\vendorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62AAE113-73B5-4101-8ADA-10DA1025813B}|DAL-Core\\DAL-Core.csproj|solutionrelative:dal-core\\configuration\\vendorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62AAE113-73B5-4101-8ADA-10DA1025813B}|DAL-Core\\DAL-Core.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\dal-core\\dal-core\\configuration\\healthcareconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62AAE113-73B5-4101-8ADA-10DA1025813B}|DAL-Core\\DAL-Core.csproj|solutionrelative:dal-core\\configuration\\healthcareconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62AAE113-73B5-4101-8ADA-10DA1025813B}|DAL-Core\\DAL-Core.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\dal-core\\dal-core\\configuration\\petconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62AAE113-73B5-4101-8ADA-10DA1025813B}|DAL-Core\\DAL-Core.csproj|solutionrelative:dal-core\\configuration\\petconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62AAE113-73B5-4101-8ADA-10DA1025813B}|DAL-Core\\DAL-Core.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\dal-core\\dal-core\\configuration\\storeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62AAE113-73B5-4101-8ADA-10DA1025813B}|DAL-Core\\DAL-Core.csproj|solutionrelative:dal-core\\configuration\\storeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\DAL-Core\\DAL-Core\\Entities\\Store.cs",
+              "RelativeDocumentMoniker": "DAL-Core\\Entities\\Store.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\DAL-Core\\DAL-Core\\Entities\\Store.cs",
+              "RelativeToolTip": "DAL-Core\\Entities\\Store.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T15:24:34.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\DAL-Core\\DAL-Core\\Entities\\Pet.cs",
+              "RelativeDocumentMoniker": "DAL-Core\\Entities\\Pet.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\DAL-Core\\DAL-Core\\Entities\\Pet.cs",
+              "RelativeToolTip": "DAL-Core\\Entities\\Pet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:24:41.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HealthCare.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\DAL-Core\\DAL-Core\\Entities\\HealthCare.cs",
+              "RelativeDocumentMoniker": "DAL-Core\\Entities\\HealthCare.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\DAL-Core\\DAL-Core\\Entities\\HealthCare.cs",
+              "RelativeToolTip": "DAL-Core\\Entities\\HealthCare.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:24:40.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\DAL-Core\\DAL-Core\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "DAL-Core\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\DAL-Core\\DAL-Core\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "DAL-Core\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:24:39.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HealthCareConfiguration.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\DAL-Core\\DAL-Core\\Configuration\\HealthCareConfiguration.cs",
+              "RelativeDocumentMoniker": "DAL-Core\\Configuration\\HealthCareConfiguration.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\DAL-Core\\DAL-Core\\Configuration\\HealthCareConfiguration.cs",
+              "RelativeToolTip": "DAL-Core\\Configuration\\HealthCareConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:24:33.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PetConfiguration.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\DAL-Core\\DAL-Core\\Configuration\\PetConfiguration.cs",
+              "RelativeDocumentMoniker": "DAL-Core\\Configuration\\PetConfiguration.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\DAL-Core\\DAL-Core\\Configuration\\PetConfiguration.cs",
+              "RelativeToolTip": "DAL-Core\\Configuration\\PetConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:24:33.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StoreConfiguration.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\DAL-Core\\DAL-Core\\Configuration\\StoreConfiguration.cs",
+              "RelativeDocumentMoniker": "DAL-Core\\Configuration\\StoreConfiguration.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\DAL-Core\\DAL-Core\\Configuration\\StoreConfiguration.cs",
+              "RelativeToolTip": "DAL-Core\\Configuration\\StoreConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:24:31.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VendorConfiguration.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\DAL-Core\\DAL-Core\\Configuration\\VendorConfiguration.cs",
+              "RelativeDocumentMoniker": "DAL-Core\\Configuration\\VendorConfiguration.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\DAL-Core\\DAL-Core\\Configuration\\VendorConfiguration.cs",
+              "RelativeToolTip": "DAL-Core\\Configuration\\VendorConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:24:30.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DAL-Initializator.csproj",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\DAL-Core\\DAL-Initializator\\DAL-Initializator.csproj",
+              "RelativeDocumentMoniker": "DAL-Initializator\\DAL-Initializator.csproj",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\DAL-Core\\DAL-Initializator\\DAL-Initializator.csproj",
+              "RelativeToolTip": "DAL-Initializator\\DAL-Initializator.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-05T14:02:18.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\DAL-Core\\DAL-Initializator\\Program.cs",
+              "RelativeDocumentMoniker": "DAL-Initializator\\Program.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\DAL-Core\\DAL-Initializator\\Program.cs",
+              "RelativeToolTip": "DAL-Initializator\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:01:59.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PetStoreDbContext.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\DAL-Core\\DAL-Core\\PetStoreDbContext.cs",
+              "RelativeDocumentMoniker": "DAL-Core\\PetStoreDbContext.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\DAL-Core\\DAL-Core\\PetStoreDbContext.cs",
+              "RelativeToolTip": "DAL-Core\\PetStoreDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T13:44:02.26Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

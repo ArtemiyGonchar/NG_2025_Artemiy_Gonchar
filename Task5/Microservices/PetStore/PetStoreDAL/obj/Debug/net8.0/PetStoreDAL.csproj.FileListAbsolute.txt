@@ -1,0 +1,13 @@
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\PetStore\PetStoreDAL\bin\Debug\net8.0\PetStoreDAL.deps.json
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\PetStore\PetStoreDAL\bin\Debug\net8.0\PetStoreDAL.dll
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\PetStore\PetStoreDAL\bin\Debug\net8.0\PetStoreDAL.pdb
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\PetStore\PetStoreDAL\obj\Debug\net8.0\PetStoreDAL.csproj.AssemblyReference.cache
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\PetStore\PetStoreDAL\obj\Debug\net8.0\PetStoreDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\PetStore\PetStoreDAL\obj\Debug\net8.0\PetStoreDAL.AssemblyInfoInputs.cache
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\PetStore\PetStoreDAL\obj\Debug\net8.0\PetStoreDAL.AssemblyInfo.cs
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\PetStore\PetStoreDAL\obj\Debug\net8.0\PetStoreDAL.csproj.CoreCompileInputs.cache
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\PetStore\PetStoreDAL\obj\Debug\net8.0\PetStoreDAL.sourcelink.json
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\PetStore\PetStoreDAL\obj\Debug\net8.0\PetStoreDAL.dll
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\PetStore\PetStoreDAL\obj\Debug\net8.0\refint\PetStoreDAL.dll
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\PetStore\PetStoreDAL\obj\Debug\net8.0\PetStoreDAL.pdb
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\PetStore\PetStoreDAL\obj\Debug\net8.0\ref\PetStoreDAL.dll

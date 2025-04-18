@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kIz4+qPQVxUyuR2k0ArIePpskyyXR2RR3j8Iyp2ejLOH2Na7nMbO6KntqaOjeZwfuHS/63Q05N6/aZY4DppubQ==",
+  "success": true,
+  "projectFilePath": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\SentinelAbstraction\\SentinelAbstraction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gameu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\gameu\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\gameu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

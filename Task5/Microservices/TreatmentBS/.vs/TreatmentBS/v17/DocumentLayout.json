@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\TreatmentBS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B6D47A-E0CC-40A4-86E8-F924FF3109BB}|TreatmentBS\\TreatmentBS.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\treatmentbs\\treatmentbs\\controllers\\treatmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B6D47A-E0CC-40A4-86E8-F924FF3109BB}|TreatmentBS\\TreatmentBS.csproj|solutionrelative:treatmentbs\\controllers\\treatmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1580F31-E453-4C8D-8193-EB11E5CD4AD4}|TreatmentBL\\TreatmentBL.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\treatmentbs\\treatmentbl\\services\\interfaces\\itreatmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1580F31-E453-4C8D-8193-EB11E5CD4AD4}|TreatmentBL\\TreatmentBL.csproj|solutionrelative:treatmentbl\\services\\interfaces\\itreatmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF19153-7EBB-4D7B-AD58-EC54EFADC437}|TreatmentDal\\TreatmentDal.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\treatmentbs\\treatmentdal\\repositories\\interfaces\\ihealthcarerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF19153-7EBB-4D7B-AD58-EC54EFADC437}|TreatmentDal\\TreatmentDal.csproj|solutionrelative:treatmentdal\\repositories\\interfaces\\ihealthcarerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF19153-7EBB-4D7B-AD58-EC54EFADC437}|TreatmentDal\\TreatmentDal.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\treatmentbs\\treatmentdal\\repositories\\interfaces\\ivendorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF19153-7EBB-4D7B-AD58-EC54EFADC437}|TreatmentDal\\TreatmentDal.csproj|solutionrelative:treatmentdal\\repositories\\interfaces\\ivendorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF19153-7EBB-4D7B-AD58-EC54EFADC437}|TreatmentDal\\TreatmentDal.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\treatmentbs\\treatmentdal\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF19153-7EBB-4D7B-AD58-EC54EFADC437}|TreatmentDal\\TreatmentDal.csproj|solutionrelative:treatmentdal\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1580F31-E453-4C8D-8193-EB11E5CD4AD4}|TreatmentBL\\TreatmentBL.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\treatmentbs\\treatmentbl\\services\\treatmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1580F31-E453-4C8D-8193-EB11E5CD4AD4}|TreatmentBL\\TreatmentBL.csproj|solutionrelative:treatmentbl\\services\\treatmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1580F31-E453-4C8D-8193-EB11E5CD4AD4}|TreatmentBL\\TreatmentBL.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\treatmentbs\\treatmentbl\\treatmentblinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1580F31-E453-4C8D-8193-EB11E5CD4AD4}|TreatmentBL\\TreatmentBL.csproj|solutionrelative:treatmentbl\\treatmentblinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF19153-7EBB-4D7B-AD58-EC54EFADC437}|TreatmentDal\\TreatmentDal.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\treatmentbs\\treatmentdal\\repositories\\healthcarerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF19153-7EBB-4D7B-AD58-EC54EFADC437}|TreatmentDal\\TreatmentDal.csproj|solutionrelative:treatmentdal\\repositories\\healthcarerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF19153-7EBB-4D7B-AD58-EC54EFADC437}|TreatmentDal\\TreatmentDal.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\treatmentbs\\treatmentdal\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF19153-7EBB-4D7B-AD58-EC54EFADC437}|TreatmentDal\\TreatmentDal.csproj|solutionrelative:treatmentdal\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF19153-7EBB-4D7B-AD58-EC54EFADC437}|TreatmentDal\\TreatmentDal.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\treatmentbs\\treatmentdal\\repositories\\vendorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF19153-7EBB-4D7B-AD58-EC54EFADC437}|TreatmentDal\\TreatmentDal.csproj|solutionrelative:treatmentdal\\repositories\\vendorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1580F31-E453-4C8D-8193-EB11E5CD4AD4}|TreatmentBL\\TreatmentBL.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\treatmentbs\\treatmentbl\\profiles\\treatmentmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1580F31-E453-4C8D-8193-EB11E5CD4AD4}|TreatmentBL\\TreatmentBL.csproj|solutionrelative:treatmentbl\\profiles\\treatmentmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1580F31-E453-4C8D-8193-EB11E5CD4AD4}|TreatmentBL\\TreatmentBL.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\treatmentbs\\treatmentbl\\models\\treatmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1580F31-E453-4C8D-8193-EB11E5CD4AD4}|TreatmentBL\\TreatmentBL.csproj|solutionrelative:treatmentbl\\models\\treatmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B6D47A-E0CC-40A4-86E8-F924FF3109BB}|TreatmentBS\\TreatmentBS.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\treatmentbs\\treatmentbs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B6D47A-E0CC-40A4-86E8-F924FF3109BB}|TreatmentBS\\TreatmentBS.csproj|solutionrelative:treatmentbs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF19153-7EBB-4D7B-AD58-EC54EFADC437}|TreatmentDal\\TreatmentDal.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\treatmentbs\\treatmentdal\\treatmentdalinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF19153-7EBB-4D7B-AD58-EC54EFADC437}|TreatmentDal\\TreatmentDal.csproj|solutionrelative:treatmentdal\\treatmentdalinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B6D47A-E0CC-40A4-86E8-F924FF3109BB}|TreatmentBS\\TreatmentBS.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\treatmentbs\\treatmentbs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F6B6D47A-E0CC-40A4-86E8-F924FF3109BB}|TreatmentBS\\TreatmentBS.csproj|solutionrelative:treatmentbs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B6D47A-E0CC-40A4-86E8-F924FF3109BB}|TreatmentBS\\TreatmentBS.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\treatmentbs\\treatmentbs\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F6B6D47A-E0CC-40A4-86E8-F924FF3109BB}|TreatmentBS\\TreatmentBS.csproj|solutionrelative:treatmentbs\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HealthCareRepository.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\TreatmentBS\\TreatmentDal\\Repositories\\HealthCareRepository.cs",
+              "RelativeDocumentMoniker": "TreatmentDal\\Repositories\\HealthCareRepository.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\TreatmentBS\\TreatmentDal\\Repositories\\HealthCareRepository.cs",
+              "RelativeToolTip": "TreatmentDal\\Repositories\\HealthCareRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T14:11:35.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\TreatmentBS\\TreatmentDal\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "TreatmentDal\\Repositories\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\TreatmentBS\\TreatmentDal\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "TreatmentDal\\Repositories\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:45:27.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IHealthCareRepository.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\TreatmentBS\\TreatmentDal\\Repositories\\Interfaces\\IHealthCareRepository.cs",
+              "RelativeDocumentMoniker": "TreatmentDal\\Repositories\\Interfaces\\IHealthCareRepository.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\TreatmentBS\\TreatmentDal\\Repositories\\Interfaces\\IHealthCareRepository.cs",
+              "RelativeToolTip": "TreatmentDal\\Repositories\\Interfaces\\IHealthCareRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T19:08:37.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\TreatmentBS\\TreatmentDal\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "TreatmentDal\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\TreatmentBS\\TreatmentDal\\Repositories\\Repository.cs",
+              "RelativeToolTip": "TreatmentDal\\Repositories\\Repository.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:42:05.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VendorRepository.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\TreatmentBS\\TreatmentDal\\Repositories\\VendorRepository.cs",
+              "RelativeDocumentMoniker": "TreatmentDal\\Repositories\\VendorRepository.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\TreatmentBS\\TreatmentDal\\Repositories\\VendorRepository.cs",
+              "RelativeToolTip": "TreatmentDal\\Repositories\\VendorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T14:29:02.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITreatmentService.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\TreatmentBS\\TreatmentBL\\Services\\Interfaces\\ITreatmentService.cs",
+              "RelativeDocumentMoniker": "TreatmentBL\\Services\\Interfaces\\ITreatmentService.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\TreatmentBS\\TreatmentBL\\Services\\Interfaces\\ITreatmentService.cs",
+              "RelativeToolTip": "TreatmentBL\\Services\\Interfaces\\ITreatmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T14:15:41.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TreatmentBlInjection.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\TreatmentBS\\TreatmentBL\\TreatmentBlInjection.cs",
+              "RelativeDocumentMoniker": "TreatmentBL\\TreatmentBlInjection.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\TreatmentBS\\TreatmentBL\\TreatmentBlInjection.cs",
+              "RelativeToolTip": "TreatmentBL\\TreatmentBlInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:17:24.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IVendorRepository.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\TreatmentBS\\TreatmentDal\\Repositories\\Interfaces\\IVendorRepository.cs",
+              "RelativeDocumentMoniker": "TreatmentDal\\Repositories\\Interfaces\\IVendorRepository.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\TreatmentBS\\TreatmentDal\\Repositories\\Interfaces\\IVendorRepository.cs",
+              "RelativeToolTip": "TreatmentDal\\Repositories\\Interfaces\\IVendorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T19:08:34.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TreatmentController.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\TreatmentBS\\TreatmentBS\\Controllers\\TreatmentController.cs",
+              "RelativeDocumentMoniker": "TreatmentBS\\Controllers\\TreatmentController.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\TreatmentBS\\TreatmentBS\\Controllers\\TreatmentController.cs",
+              "RelativeToolTip": "TreatmentBS\\Controllers\\TreatmentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T13:46:18.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TreatmentService.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\TreatmentBS\\TreatmentBL\\Services\\TreatmentService.cs",
+              "RelativeDocumentMoniker": "TreatmentBL\\Services\\TreatmentService.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\TreatmentBS\\TreatmentBL\\Services\\TreatmentService.cs",
+              "RelativeToolTip": "TreatmentBL\\Services\\TreatmentService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAF8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T14:13:22.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TreatmentMappingProfile.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\TreatmentBS\\TreatmentBL\\Profiles\\TreatmentMappingProfile.cs",
+              "RelativeDocumentMoniker": "TreatmentBL\\Profiles\\TreatmentMappingProfile.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\TreatmentBS\\TreatmentBL\\Profiles\\TreatmentMappingProfile.cs",
+              "RelativeToolTip": "TreatmentBL\\Profiles\\TreatmentMappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:17:44.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TreatmentDto.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\TreatmentBS\\TreatmentBL\\Models\\TreatmentDto.cs",
+              "RelativeDocumentMoniker": "TreatmentBL\\Models\\TreatmentDto.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\TreatmentBS\\TreatmentBL\\Models\\TreatmentDto.cs",
+              "RelativeToolTip": "TreatmentBL\\Models\\TreatmentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T14:14:32.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\TreatmentBS\\TreatmentBS\\Program.cs",
+              "RelativeDocumentMoniker": "TreatmentBS\\Program.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\TreatmentBS\\TreatmentBS\\Program.cs",
+              "RelativeToolTip": "TreatmentBS\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAtwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T15:37:52.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\TreatmentBS\\TreatmentBS\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TreatmentBS\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\TreatmentBS\\TreatmentBS\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TreatmentBS\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-06T15:03:49.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\TreatmentBS\\TreatmentBS\\appsettings.json",
+              "RelativeDocumentMoniker": "TreatmentBS\\appsettings.json",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\TreatmentBS\\TreatmentBS\\appsettings.json",
+              "RelativeToolTip": "TreatmentBS\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-05T13:57:12.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TreatmentDalInjection.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\TreatmentBS\\TreatmentDal\\TreatmentDalInjection.cs",
+              "RelativeDocumentMoniker": "TreatmentDal\\TreatmentDalInjection.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\TreatmentBS\\TreatmentDal\\TreatmentDalInjection.cs",
+              "RelativeToolTip": "TreatmentDal\\TreatmentDalInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:17:27.097Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

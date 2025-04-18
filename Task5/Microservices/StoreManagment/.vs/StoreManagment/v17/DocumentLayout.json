@@ -1,0 +1,429 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\StoreManagment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{911AF308-1DEC-4A3E-9E92-926C8AAADA74}|StoreDAL\\StoreManagmentBL.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\storemanagment\\storedal\\services\\interfaces\\ivendorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{911AF308-1DEC-4A3E-9E92-926C8AAADA74}|StoreDAL\\StoreManagmentBL.csproj|solutionrelative:storedal\\services\\interfaces\\ivendorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{911AF308-1DEC-4A3E-9E92-926C8AAADA74}|StoreDAL\\StoreManagmentBL.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\storemanagment\\storedal\\services\\interfaces\\istoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{911AF308-1DEC-4A3E-9E92-926C8AAADA74}|StoreDAL\\StoreManagmentBL.csproj|solutionrelative:storedal\\services\\interfaces\\istoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3894B4-A36A-446B-9DCF-16A65C7AC04F}|StoreManagmentDAL\\StoreManagmentDAL.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\storemanagment\\storemanagmentdal\\repositories\\interfaces\\ivendorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3894B4-A36A-446B-9DCF-16A65C7AC04F}|StoreManagmentDAL\\StoreManagmentDAL.csproj|solutionrelative:storemanagmentdal\\repositories\\interfaces\\ivendorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3894B4-A36A-446B-9DCF-16A65C7AC04F}|StoreManagmentDAL\\StoreManagmentDAL.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\storemanagment\\storemanagmentdal\\repositories\\interfaces\\istorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3894B4-A36A-446B-9DCF-16A65C7AC04F}|StoreManagmentDAL\\StoreManagmentDAL.csproj|solutionrelative:storemanagmentdal\\repositories\\interfaces\\istorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{911AF308-1DEC-4A3E-9E92-926C8AAADA74}|StoreDAL\\StoreManagmentBL.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\storemanagment\\storedal\\models\\storedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{911AF308-1DEC-4A3E-9E92-926C8AAADA74}|StoreDAL\\StoreManagmentBL.csproj|solutionrelative:storedal\\models\\storedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{911AF308-1DEC-4A3E-9E92-926C8AAADA74}|StoreDAL\\StoreManagmentBL.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\storemanagment\\storedal\\models\\petdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{911AF308-1DEC-4A3E-9E92-926C8AAADA74}|StoreDAL\\StoreManagmentBL.csproj|solutionrelative:storedal\\models\\petdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{911AF308-1DEC-4A3E-9E92-926C8AAADA74}|StoreDAL\\StoreManagmentBL.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\storemanagment\\storedal\\enums\\contracttypebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{911AF308-1DEC-4A3E-9E92-926C8AAADA74}|StoreDAL\\StoreManagmentBL.csproj|solutionrelative:storedal\\enums\\contracttypebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{911AF308-1DEC-4A3E-9E92-926C8AAADA74}|StoreDAL\\StoreManagmentBL.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\storemanagment\\storedal\\models\\vendordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{911AF308-1DEC-4A3E-9E92-926C8AAADA74}|StoreDAL\\StoreManagmentBL.csproj|solutionrelative:storedal\\models\\vendordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCE5AEB-2379-46D2-A232-97889A1BE278}|StoreManagment\\StoreManagment.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\storemanagment\\storemanagment\\controllers\\vendorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCE5AEB-2379-46D2-A232-97889A1BE278}|StoreManagment\\StoreManagment.csproj|solutionrelative:storemanagment\\controllers\\vendorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{911AF308-1DEC-4A3E-9E92-926C8AAADA74}|StoreDAL\\StoreManagmentBL.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\storemanagment\\storedal\\services\\vendorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{911AF308-1DEC-4A3E-9E92-926C8AAADA74}|StoreDAL\\StoreManagmentBL.csproj|solutionrelative:storedal\\services\\vendorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3894B4-A36A-446B-9DCF-16A65C7AC04F}|StoreManagmentDAL\\StoreManagmentDAL.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\storemanagment\\storemanagmentdal\\repositories\\vendorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3894B4-A36A-446B-9DCF-16A65C7AC04F}|StoreManagmentDAL\\StoreManagmentDAL.csproj|solutionrelative:storemanagmentdal\\repositories\\vendorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3894B4-A36A-446B-9DCF-16A65C7AC04F}|StoreManagmentDAL\\StoreManagmentDAL.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\storemanagment\\storemanagmentdal\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3894B4-A36A-446B-9DCF-16A65C7AC04F}|StoreManagmentDAL\\StoreManagmentDAL.csproj|solutionrelative:storemanagmentdal\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{911AF308-1DEC-4A3E-9E92-926C8AAADA74}|StoreDAL\\StoreManagmentBL.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\storemanagment\\storedal\\profiles\\storemanagmentmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{911AF308-1DEC-4A3E-9E92-926C8AAADA74}|StoreDAL\\StoreManagmentBL.csproj|solutionrelative:storedal\\profiles\\storemanagmentmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{911AF308-1DEC-4A3E-9E92-926C8AAADA74}|StoreDAL\\StoreManagmentBL.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\storemanagment\\storedal\\storemanagmentbllinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{911AF308-1DEC-4A3E-9E92-926C8AAADA74}|StoreDAL\\StoreManagmentBL.csproj|solutionrelative:storedal\\storemanagmentbllinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3894B4-A36A-446B-9DCF-16A65C7AC04F}|StoreManagmentDAL\\StoreManagmentDAL.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\storemanagment\\storemanagmentdal\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3894B4-A36A-446B-9DCF-16A65C7AC04F}|StoreManagmentDAL\\StoreManagmentDAL.csproj|solutionrelative:storemanagmentdal\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{911AF308-1DEC-4A3E-9E92-926C8AAADA74}|StoreDAL\\StoreManagmentBL.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\storemanagment\\storedal\\services\\storeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{911AF308-1DEC-4A3E-9E92-926C8AAADA74}|StoreDAL\\StoreManagmentBL.csproj|solutionrelative:storedal\\services\\storeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCE5AEB-2379-46D2-A232-97889A1BE278}|StoreManagment\\StoreManagment.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\storemanagment\\storemanagment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCE5AEB-2379-46D2-A232-97889A1BE278}|StoreManagment\\StoreManagment.csproj|solutionrelative:storemanagment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3894B4-A36A-446B-9DCF-16A65C7AC04F}|StoreManagmentDAL\\StoreManagmentDAL.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\storemanagment\\storemanagmentdal\\repositories\\storerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3894B4-A36A-446B-9DCF-16A65C7AC04F}|StoreManagmentDAL\\StoreManagmentDAL.csproj|solutionrelative:storemanagmentdal\\repositories\\storerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCE5AEB-2379-46D2-A232-97889A1BE278}|StoreManagment\\StoreManagment.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\storemanagment\\storemanagment\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCE5AEB-2379-46D2-A232-97889A1BE278}|StoreManagment\\StoreManagment.csproj|solutionrelative:storemanagment\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3894B4-A36A-446B-9DCF-16A65C7AC04F}|StoreManagmentDAL\\StoreManagmentDAL.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\storemanagment\\storemanagmentdal\\storemanagmentdalinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3894B4-A36A-446B-9DCF-16A65C7AC04F}|StoreManagmentDAL\\StoreManagmentDAL.csproj|solutionrelative:storemanagmentdal\\storemanagmentdalinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCE5AEB-2379-46D2-A232-97889A1BE278}|StoreManagment\\StoreManagment.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\storemanagment\\storemanagment\\storemanagment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9CCE5AEB-2379-46D2-A232-97889A1BE278}|StoreManagment\\StoreManagment.csproj|solutionrelative:storemanagment\\storemanagment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{911AF308-1DEC-4A3E-9E92-926C8AAADA74}|StoreDAL\\StoreManagmentBL.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\storemanagment\\storedal\\storemanagmentbl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{911AF308-1DEC-4A3E-9E92-926C8AAADA74}|StoreDAL\\StoreManagmentBL.csproj|solutionrelative:storedal\\storemanagmentbl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3894B4-A36A-446B-9DCF-16A65C7AC04F}|StoreManagmentDAL\\StoreManagmentDAL.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\storemanagment\\storemanagmentdal\\storemanagmentdal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4A3894B4-A36A-446B-9DCF-16A65C7AC04F}|StoreManagmentDAL\\StoreManagmentDAL.csproj|solutionrelative:storemanagmentdal\\storemanagmentdal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCE5AEB-2379-46D2-A232-97889A1BE278}|StoreManagment\\StoreManagment.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\storemanagment\\storemanagment\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9CCE5AEB-2379-46D2-A232-97889A1BE278}|StoreManagment\\StoreManagment.csproj|solutionrelative:storemanagment\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCE5AEB-2379-46D2-A232-97889A1BE278}|StoreManagment\\StoreManagment.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\storemanagment\\storemanagment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9CCE5AEB-2379-46D2-A232-97889A1BE278}|StoreManagment\\StoreManagment.csproj|solutionrelative:storemanagment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VendorController.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\StoreManagment\\StoreManagment\\Controllers\\VendorController.cs",
+              "RelativeDocumentMoniker": "StoreManagment\\Controllers\\VendorController.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\StoreManagment\\StoreManagment\\Controllers\\VendorController.cs",
+              "RelativeToolTip": "StoreManagment\\Controllers\\VendorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:17:12.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StoreManagmentMappingProfile.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\StoreManagment\\StoreDAL\\Profiles\\StoreManagmentMappingProfile.cs",
+              "RelativeDocumentMoniker": "StoreDAL\\Profiles\\StoreManagmentMappingProfile.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\StoreManagment\\StoreDAL\\Profiles\\StoreManagmentMappingProfile.cs",
+              "RelativeToolTip": "StoreDAL\\Profiles\\StoreManagmentMappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T14:28:09.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IVendorService.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\StoreManagment\\StoreDAL\\Services\\Interfaces\\IVendorService.cs",
+              "RelativeDocumentMoniker": "StoreDAL\\Services\\Interfaces\\IVendorService.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\StoreManagment\\StoreDAL\\Services\\Interfaces\\IVendorService.cs",
+              "RelativeToolTip": "StoreDAL\\Services\\Interfaces\\IVendorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:15:47.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VendorDto.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\StoreManagment\\StoreDAL\\Models\\VendorDto.cs",
+              "RelativeDocumentMoniker": "StoreDAL\\Models\\VendorDto.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\StoreManagment\\StoreDAL\\Models\\VendorDto.cs",
+              "RelativeToolTip": "StoreDAL\\Models\\VendorDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:02:36.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContractTypeBL.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\StoreManagment\\StoreDAL\\Enums\\ContractTypeBL.cs",
+              "RelativeDocumentMoniker": "StoreDAL\\Enums\\ContractTypeBL.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\StoreManagment\\StoreDAL\\Enums\\ContractTypeBL.cs",
+              "RelativeToolTip": "StoreDAL\\Enums\\ContractTypeBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:05:44.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StoreDto.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\StoreManagment\\StoreDAL\\Models\\StoreDto.cs",
+              "RelativeDocumentMoniker": "StoreDAL\\Models\\StoreDto.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\StoreManagment\\StoreDAL\\Models\\StoreDto.cs",
+              "RelativeToolTip": "StoreDAL\\Models\\StoreDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T14:33:59.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PetDto.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\StoreManagment\\StoreDAL\\Models\\PetDto.cs",
+              "RelativeDocumentMoniker": "StoreDAL\\Models\\PetDto.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\StoreManagment\\StoreDAL\\Models\\PetDto.cs",
+              "RelativeToolTip": "StoreDAL\\Models\\PetDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T16:32:48.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IStoreRepository.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\StoreManagment\\StoreManagmentDAL\\Repositories\\Interfaces\\IStoreRepository.cs",
+              "RelativeDocumentMoniker": "StoreManagmentDAL\\Repositories\\Interfaces\\IStoreRepository.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\StoreManagment\\StoreManagmentDAL\\Repositories\\Interfaces\\IStoreRepository.cs",
+              "RelativeToolTip": "StoreManagmentDAL\\Repositories\\Interfaces\\IStoreRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T14:12:49.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IVendorRepository.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\StoreManagment\\StoreManagmentDAL\\Repositories\\Interfaces\\IVendorRepository.cs",
+              "RelativeDocumentMoniker": "StoreManagmentDAL\\Repositories\\Interfaces\\IVendorRepository.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\StoreManagment\\StoreManagmentDAL\\Repositories\\Interfaces\\IVendorRepository.cs",
+              "RelativeToolTip": "StoreManagmentDAL\\Repositories\\Interfaces\\IVendorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T16:55:49.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IStoreService.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\StoreManagment\\StoreDAL\\Services\\Interfaces\\IStoreService.cs",
+              "RelativeDocumentMoniker": "StoreDAL\\Services\\Interfaces\\IStoreService.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\StoreManagment\\StoreDAL\\Services\\Interfaces\\IStoreService.cs",
+              "RelativeToolTip": "StoreDAL\\Services\\Interfaces\\IStoreService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T15:05:59.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StoreManagmentBLLInjection.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\StoreManagment\\StoreDAL\\StoreManagmentBLLInjection.cs",
+              "RelativeDocumentMoniker": "StoreDAL\\StoreManagmentBLLInjection.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\StoreManagment\\StoreDAL\\StoreManagmentBLLInjection.cs",
+              "RelativeToolTip": "StoreDAL\\StoreManagmentBLLInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T14:23:45.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VendorRepository.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\StoreManagment\\StoreManagmentDAL\\Repositories\\VendorRepository.cs",
+              "RelativeDocumentMoniker": "StoreManagmentDAL\\Repositories\\VendorRepository.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\StoreManagment\\StoreManagmentDAL\\Repositories\\VendorRepository.cs",
+              "RelativeToolTip": "StoreManagmentDAL\\Repositories\\VendorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T16:58:41.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\StoreManagment\\StoreManagmentDAL\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "StoreManagmentDAL\\Repositories\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\StoreManagment\\StoreManagmentDAL\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "StoreManagmentDAL\\Repositories\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T14:01:46.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VendorService.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\StoreManagment\\StoreDAL\\Services\\VendorService.cs",
+              "RelativeDocumentMoniker": "StoreDAL\\Services\\VendorService.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\StoreManagment\\StoreDAL\\Services\\VendorService.cs",
+              "RelativeToolTip": "StoreDAL\\Services\\VendorService.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAwwE0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:16:06.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StoreService.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\StoreManagment\\StoreDAL\\Services\\StoreService.cs",
+              "RelativeDocumentMoniker": "StoreDAL\\Services\\StoreService.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\StoreManagment\\StoreDAL\\Services\\StoreService.cs",
+              "RelativeToolTip": "StoreDAL\\Services\\StoreService.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwEIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T15:08:29.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\StoreManagment\\StoreManagment\\Program.cs",
+              "RelativeDocumentMoniker": "StoreManagment\\Program.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\StoreManagment\\StoreManagment\\Program.cs",
+              "RelativeToolTip": "StoreManagment\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:28:36.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StoreRepository.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\StoreManagment\\StoreManagmentDAL\\Repositories\\StoreRepository.cs",
+              "RelativeDocumentMoniker": "StoreManagmentDAL\\Repositories\\StoreRepository.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\StoreManagment\\StoreManagmentDAL\\Repositories\\StoreRepository.cs",
+              "RelativeToolTip": "StoreManagmentDAL\\Repositories\\StoreRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T14:14:40.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\StoreManagment\\StoreManagmentDAL\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "StoreManagmentDAL\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\StoreManagment\\StoreManagmentDAL\\Repositories\\Repository.cs",
+              "RelativeToolTip": "StoreManagmentDAL\\Repositories\\Repository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T14:02:17.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StoreController.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\StoreManagment\\StoreManagment\\Controllers\\StoreController.cs",
+              "RelativeDocumentMoniker": "StoreManagment\\Controllers\\StoreController.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\StoreManagment\\StoreManagment\\Controllers\\StoreController.cs",
+              "RelativeToolTip": "StoreManagment\\Controllers\\StoreController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:44:04.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StoreManagmentDALInjection.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\StoreManagment\\StoreManagmentDAL\\StoreManagmentDALInjection.cs",
+              "RelativeDocumentMoniker": "StoreManagmentDAL\\StoreManagmentDALInjection.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\StoreManagment\\StoreManagmentDAL\\StoreManagmentDALInjection.cs",
+              "RelativeToolTip": "StoreManagmentDAL\\StoreManagmentDALInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:54:10.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StoreManagment.csproj",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\StoreManagment\\StoreManagment\\StoreManagment.csproj",
+              "RelativeDocumentMoniker": "StoreManagment\\StoreManagment.csproj",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\StoreManagment\\StoreManagment\\StoreManagment.csproj",
+              "RelativeToolTip": "StoreManagment\\StoreManagment.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-12T14:30:59.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StoreManagmentDAL.csproj",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\StoreManagment\\StoreManagmentDAL\\StoreManagmentDAL.csproj",
+              "RelativeDocumentMoniker": "StoreManagmentDAL\\StoreManagmentDAL.csproj",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\StoreManagment\\StoreManagmentDAL\\StoreManagmentDAL.csproj",
+              "RelativeToolTip": "StoreManagmentDAL\\StoreManagmentDAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-12T14:21:51.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StoreManagmentBL.csproj",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\StoreManagment\\StoreDAL\\StoreManagmentBL.csproj",
+              "RelativeDocumentMoniker": "StoreDAL\\StoreManagmentBL.csproj",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\StoreManagment\\StoreDAL\\StoreManagmentBL.csproj",
+              "RelativeToolTip": "StoreDAL\\StoreManagmentBL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-12T14:31:00.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\StoreManagment\\StoreManagment\\appsettings.json",
+              "RelativeDocumentMoniker": "StoreManagment\\appsettings.json",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\StoreManagment\\StoreManagment\\appsettings.json",
+              "RelativeToolTip": "StoreManagment\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-12T13:47:50.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\StoreManagment\\StoreManagment\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "StoreManagment\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\StoreManagment\\StoreManagment\\Properties\\launchSettings.json",
+              "RelativeToolTip": "StoreManagment\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-12T13:28:23.216Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

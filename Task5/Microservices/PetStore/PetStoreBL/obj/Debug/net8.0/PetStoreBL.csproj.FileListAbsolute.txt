@@ -1,0 +1,16 @@
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\PetStore\PetStoreBL\bin\Debug\net8.0\PetStoreBL.deps.json
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\PetStore\PetStoreBL\bin\Debug\net8.0\PetStoreBL.dll
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\PetStore\PetStoreBL\bin\Debug\net8.0\PetStoreBL.pdb
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\PetStore\PetStoreBL\bin\Debug\net8.0\PetStoreDAL.dll
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\PetStore\PetStoreBL\bin\Debug\net8.0\PetStoreDAL.pdb
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\PetStore\PetStoreBL\obj\Debug\net8.0\PetStoreBL.csproj.AssemblyReference.cache
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\PetStore\PetStoreBL\obj\Debug\net8.0\PetStoreBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\PetStore\PetStoreBL\obj\Debug\net8.0\PetStoreBL.AssemblyInfoInputs.cache
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\PetStore\PetStoreBL\obj\Debug\net8.0\PetStoreBL.AssemblyInfo.cs
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\PetStore\PetStoreBL\obj\Debug\net8.0\PetStoreBL.csproj.CoreCompileInputs.cache
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\PetStore\PetStoreBL\obj\Debug\net8.0\PetStoreBL.sourcelink.json
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\PetStore\PetStoreBL\obj\Debug\net8.0\PetStoreBL.csproj.Up2Date
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\PetStore\PetStoreBL\obj\Debug\net8.0\PetStoreBL.dll
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\PetStore\PetStoreBL\obj\Debug\net8.0\refint\PetStoreBL.dll
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\PetStore\PetStoreBL\obj\Debug\net8.0\PetStoreBL.pdb
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\PetStore\PetStoreBL\obj\Debug\net8.0\ref\PetStoreBL.dll

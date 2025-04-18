@@ -1,0 +1,16 @@
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\Sentinel\SentinelBusinessLayer\bin\Debug\net7.0\SentinelBusinessLayer.deps.json
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\Sentinel\SentinelBusinessLayer\bin\Debug\net7.0\SentinelBusinessLayer.dll
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\Sentinel\SentinelBusinessLayer\bin\Debug\net7.0\SentinelBusinessLayer.pdb
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\Sentinel\SentinelBusinessLayer\bin\Debug\net7.0\SentinelAbstraction.dll
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\Sentinel\SentinelBusinessLayer\bin\Debug\net7.0\SentinelAbstraction.pdb
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\Sentinel\SentinelBusinessLayer\obj\Debug\net7.0\SentinelBusinessLayer.csproj.AssemblyReference.cache
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\Sentinel\SentinelBusinessLayer\obj\Debug\net7.0\SentinelBusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\Sentinel\SentinelBusinessLayer\obj\Debug\net7.0\SentinelBusinessLayer.AssemblyInfoInputs.cache
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\Sentinel\SentinelBusinessLayer\obj\Debug\net7.0\SentinelBusinessLayer.AssemblyInfo.cs
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\Sentinel\SentinelBusinessLayer\obj\Debug\net7.0\SentinelBusinessLayer.csproj.CoreCompileInputs.cache
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\Sentinel\SentinelBusinessLayer\obj\Debug\net7.0\SentinelBusinessLayer.sourcelink.json
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\Sentinel\SentinelBusinessLayer\obj\Debug\net7.0\Sentinel.EB11C951.Up2Date
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\Sentinel\SentinelBusinessLayer\obj\Debug\net7.0\SentinelBusinessLayer.dll
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\Sentinel\SentinelBusinessLayer\obj\Debug\net7.0\refint\SentinelBusinessLayer.dll
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\Sentinel\SentinelBusinessLayer\obj\Debug\net7.0\SentinelBusinessLayer.pdb
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\Sentinel\SentinelBusinessLayer\obj\Debug\net7.0\ref\SentinelBusinessLayer.dll

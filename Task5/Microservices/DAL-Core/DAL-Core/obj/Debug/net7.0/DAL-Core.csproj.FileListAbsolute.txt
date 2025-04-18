@@ -1,0 +1,15 @@
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\DAL-Core\DAL-Core\bin\Debug\net7.0\DAL-Core.deps.json
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\DAL-Core\DAL-Core\bin\Debug\net7.0\DAL-Core.runtimeconfig.json
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\DAL-Core\DAL-Core\bin\Debug\net7.0\DAL-Core.dll
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\DAL-Core\DAL-Core\bin\Debug\net7.0\DAL-Core.pdb
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\DAL-Core\DAL-Core\obj\Debug\net7.0\DAL-Core.csproj.AssemblyReference.cache
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\DAL-Core\DAL-Core\obj\Debug\net7.0\DAL-Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\DAL-Core\DAL-Core\obj\Debug\net7.0\DAL-Core.AssemblyInfoInputs.cache
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\DAL-Core\DAL-Core\obj\Debug\net7.0\DAL-Core.AssemblyInfo.cs
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\DAL-Core\DAL-Core\obj\Debug\net7.0\DAL-Core.csproj.CoreCompileInputs.cache
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\DAL-Core\DAL-Core\obj\Debug\net7.0\DAL-Core.sourcelink.json
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\DAL-Core\DAL-Core\obj\Debug\net7.0\DAL-Core.dll
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\DAL-Core\DAL-Core\obj\Debug\net7.0\refint\DAL-Core.dll
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\DAL-Core\DAL-Core\obj\Debug\net7.0\DAL-Core.pdb
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\DAL-Core\DAL-Core\obj\Debug\net7.0\DAL-Core.genruntimeconfig.cache
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\DAL-Core\DAL-Core\obj\Debug\net7.0\ref\DAL-Core.dll

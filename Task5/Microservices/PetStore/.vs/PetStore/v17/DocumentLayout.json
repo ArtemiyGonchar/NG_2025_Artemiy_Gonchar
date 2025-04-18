@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\PetStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02979AF5-92EB-4D16-9332-2875F4CFB6F5}|PetStoreBL\\PetStoreBL.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\petstore\\petstorebl\\petstorebllinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02979AF5-92EB-4D16-9332-2875F4CFB6F5}|PetStoreBL\\PetStoreBL.csproj|solutionrelative:petstorebl\\petstorebllinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D66F71-6ACC-494E-86B1-BC55F73B1B5F}|PetStoreDAL\\PetStoreDAL.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\petstore\\petstoredal\\petstoredalinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D66F71-6ACC-494E-86B1-BC55F73B1B5F}|PetStoreDAL\\PetStoreDAL.csproj|solutionrelative:petstoredal\\petstoredalinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2116F88A-E5DC-4E48-91E7-0EF9591D205B}|PetStore\\PetStore.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\petstore\\petstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2116F88A-E5DC-4E48-91E7-0EF9591D205B}|PetStore\\PetStore.csproj|solutionrelative:petstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02979AF5-92EB-4D16-9332-2875F4CFB6F5}|PetStoreBL\\PetStoreBL.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\petstore\\petstorebl\\profiles\\petstoremappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02979AF5-92EB-4D16-9332-2875F4CFB6F5}|PetStoreBL\\PetStoreBL.csproj|solutionrelative:petstorebl\\profiles\\petstoremappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02979AF5-92EB-4D16-9332-2875F4CFB6F5}|PetStoreBL\\PetStoreBL.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\petstore\\petstorebl\\models\\petstoredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02979AF5-92EB-4D16-9332-2875F4CFB6F5}|PetStoreBL\\PetStoreBL.csproj|solutionrelative:petstorebl\\models\\petstoredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02979AF5-92EB-4D16-9332-2875F4CFB6F5}|PetStoreBL\\PetStoreBL.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\petstore\\petstorebl\\enums\\pettypesbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02979AF5-92EB-4D16-9332-2875F4CFB6F5}|PetStoreBL\\PetStoreBL.csproj|solutionrelative:petstorebl\\enums\\pettypesbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02979AF5-92EB-4D16-9332-2875F4CFB6F5}|PetStoreBL\\PetStoreBL.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\petstore\\petstorebl\\services\\interfaces\\ipetstoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02979AF5-92EB-4D16-9332-2875F4CFB6F5}|PetStoreBL\\PetStoreBL.csproj|solutionrelative:petstorebl\\services\\interfaces\\ipetstoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D66F71-6ACC-494E-86B1-BC55F73B1B5F}|PetStoreDAL\\PetStoreDAL.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\petstore\\petstoredal\\repositories\\petrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D66F71-6ACC-494E-86B1-BC55F73B1B5F}|PetStoreDAL\\PetStoreDAL.csproj|solutionrelative:petstoredal\\repositories\\petrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D66F71-6ACC-494E-86B1-BC55F73B1B5F}|PetStoreDAL\\PetStoreDAL.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\petstore\\petstoredal\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D66F71-6ACC-494E-86B1-BC55F73B1B5F}|PetStoreDAL\\PetStoreDAL.csproj|solutionrelative:petstoredal\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D66F71-6ACC-494E-86B1-BC55F73B1B5F}|PetStoreDAL\\PetStoreDAL.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\petstore\\petstoredal\\repositories\\interfaces\\ipetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D66F71-6ACC-494E-86B1-BC55F73B1B5F}|PetStoreDAL\\PetStoreDAL.csproj|solutionrelative:petstoredal\\repositories\\interfaces\\ipetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D66F71-6ACC-494E-86B1-BC55F73B1B5F}|PetStoreDAL\\PetStoreDAL.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\petstore\\petstoredal\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D66F71-6ACC-494E-86B1-BC55F73B1B5F}|PetStoreDAL\\PetStoreDAL.csproj|solutionrelative:petstoredal\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2116F88A-E5DC-4E48-91E7-0EF9591D205B}|PetStore\\PetStore.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\petstore\\petstore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2116F88A-E5DC-4E48-91E7-0EF9591D205B}|PetStore\\PetStore.csproj|solutionrelative:petstore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2116F88A-E5DC-4E48-91E7-0EF9591D205B}|PetStore\\PetStore.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\petstore\\petstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2116F88A-E5DC-4E48-91E7-0EF9591D205B}|PetStore\\PetStore.csproj|solutionrelative:petstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2116F88A-E5DC-4E48-91E7-0EF9591D205B}|PetStore\\PetStore.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\petstore\\petstore\\controllers\\petstorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2116F88A-E5DC-4E48-91E7-0EF9591D205B}|PetStore\\PetStore.csproj|solutionrelative:petstore\\controllers\\petstorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02979AF5-92EB-4D16-9332-2875F4CFB6F5}|PetStoreBL\\PetStoreBL.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\petstore\\petstorebl\\services\\petstoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02979AF5-92EB-4D16-9332-2875F4CFB6F5}|PetStoreBL\\PetStoreBL.csproj|solutionrelative:petstorebl\\services\\petstoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02979AF5-92EB-4D16-9332-2875F4CFB6F5}|PetStoreBL\\PetStoreBL.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\petstore\\petstorebl\\petstorebl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{02979AF5-92EB-4D16-9332-2875F4CFB6F5}|PetStoreBL\\PetStoreBL.csproj|solutionrelative:petstorebl\\petstorebl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2116F88A-E5DC-4E48-91E7-0EF9591D205B}|PetStore\\PetStore.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\petstore\\petstore\\petstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2116F88A-E5DC-4E48-91E7-0EF9591D205B}|PetStore\\PetStore.csproj|solutionrelative:petstore\\petstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D66F71-6ACC-494E-86B1-BC55F73B1B5F}|PetStoreDAL\\PetStoreDAL.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\petstore\\petstoredal\\petstoredal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{57D66F71-6ACC-494E-86B1-BC55F73B1B5F}|PetStoreDAL\\PetStoreDAL.csproj|solutionrelative:petstoredal\\petstoredal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\PetStore\\PetStoreDAL\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "PetStoreDAL\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\PetStore\\PetStoreDAL\\Repositories\\Repository.cs",
+              "RelativeToolTip": "PetStoreDAL\\Repositories\\Repository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T16:07:31.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PetRepository.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\PetStore\\PetStoreDAL\\Repositories\\PetRepository.cs",
+              "RelativeDocumentMoniker": "PetStoreDAL\\Repositories\\PetRepository.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\PetStore\\PetStoreDAL\\Repositories\\PetRepository.cs",
+              "RelativeToolTip": "PetStoreDAL\\Repositories\\PetRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T16:07:28.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPetRepository.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\PetStore\\PetStoreDAL\\Repositories\\Interfaces\\IPetRepository.cs",
+              "RelativeDocumentMoniker": "PetStoreDAL\\Repositories\\Interfaces\\IPetRepository.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\PetStore\\PetStoreDAL\\Repositories\\Interfaces\\IPetRepository.cs",
+              "RelativeToolTip": "PetStoreDAL\\Repositories\\Interfaces\\IPetRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T19:21:19.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PetStoreBLLInjection.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\PetStore\\PetStoreBL\\PetStoreBLLInjection.cs",
+              "RelativeDocumentMoniker": "PetStoreBL\\PetStoreBLLInjection.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\PetStore\\PetStoreBL\\PetStoreBLLInjection.cs",
+              "RelativeToolTip": "PetStoreBL\\PetStoreBLLInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:19:58.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PetStoreMappingProfile.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\PetStore\\PetStoreBL\\Profiles\\PetStoreMappingProfile.cs",
+              "RelativeDocumentMoniker": "PetStoreBL\\Profiles\\PetStoreMappingProfile.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\PetStore\\PetStoreBL\\Profiles\\PetStoreMappingProfile.cs",
+              "RelativeToolTip": "PetStoreBL\\Profiles\\PetStoreMappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T13:48:53.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PetStoreDto.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\PetStore\\PetStoreBL\\Models\\PetStoreDto.cs",
+              "RelativeDocumentMoniker": "PetStoreBL\\Models\\PetStoreDto.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\PetStore\\PetStoreBL\\Models\\PetStoreDto.cs",
+              "RelativeToolTip": "PetStoreBL\\Models\\PetStoreDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T13:25:21.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PetTypesBL.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\PetStore\\PetStoreBL\\Enums\\PetTypesBL.cs",
+              "RelativeDocumentMoniker": "PetStoreBL\\Enums\\PetTypesBL.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\PetStore\\PetStoreBL\\Enums\\PetTypesBL.cs",
+              "RelativeToolTip": "PetStoreBL\\Enums\\PetTypesBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T13:27:47.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPetStoreService.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\PetStore\\PetStoreBL\\Services\\Interfaces\\IPetStoreService.cs",
+              "RelativeDocumentMoniker": "PetStoreBL\\Services\\Interfaces\\IPetStoreService.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\PetStore\\PetStoreBL\\Services\\Interfaces\\IPetStoreService.cs",
+              "RelativeToolTip": "PetStoreBL\\Services\\Interfaces\\IPetStoreService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:30:30.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\PetStore\\PetStore\\appsettings.json",
+              "RelativeDocumentMoniker": "PetStore\\appsettings.json",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\PetStore\\PetStore\\appsettings.json",
+              "RelativeToolTip": "PetStore\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-06T14:49:21.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PetStoreDALInjection.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\PetStore\\PetStoreDAL\\PetStoreDALInjection.cs",
+              "RelativeDocumentMoniker": "PetStoreDAL\\PetStoreDALInjection.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\PetStore\\PetStoreDAL\\PetStoreDALInjection.cs",
+              "RelativeToolTip": "PetStoreDAL\\PetStoreDALInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:19:55.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\PetStore\\PetStoreDAL\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "PetStoreDAL\\Repositories\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\PetStore\\PetStoreDAL\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "PetStoreDAL\\Repositories\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T16:12:08.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\PetStore\\PetStore\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PetStore\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\PetStore\\PetStore\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PetStore\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-06T14:48:59.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\PetStore\\PetStore\\Program.cs",
+              "RelativeDocumentMoniker": "PetStore\\Program.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\PetStore\\PetStore\\Program.cs",
+              "RelativeToolTip": "PetStore\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T14:50:29.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PetStoreController.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\PetStore\\PetStore\\Controllers\\PetStoreController.cs",
+              "RelativeDocumentMoniker": "PetStore\\Controllers\\PetStoreController.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\PetStore\\PetStore\\Controllers\\PetStoreController.cs",
+              "RelativeToolTip": "PetStore\\Controllers\\PetStoreController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T14:41:50.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PetStoreService.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\PetStore\\PetStoreBL\\Services\\PetStoreService.cs",
+              "RelativeDocumentMoniker": "PetStoreBL\\Services\\PetStoreService.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\PetStore\\PetStoreBL\\Services\\PetStoreService.cs",
+              "RelativeToolTip": "PetStoreBL\\Services\\PetStoreService.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAIAwwEoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T19:15:50.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PetStoreDAL.csproj",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\PetStore\\PetStoreDAL\\PetStoreDAL.csproj",
+              "RelativeDocumentMoniker": "PetStoreDAL\\PetStoreDAL.csproj",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\PetStore\\PetStoreDAL\\PetStoreDAL.csproj",
+              "RelativeToolTip": "PetStoreDAL\\PetStoreDAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-08T16:10:18.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PetStoreBL.csproj",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\PetStore\\PetStoreBL\\PetStoreBL.csproj",
+              "RelativeDocumentMoniker": "PetStoreBL\\PetStoreBL.csproj",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\PetStore\\PetStoreBL\\PetStoreBL.csproj",
+              "RelativeToolTip": "PetStoreBL\\PetStoreBL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-08T16:10:56.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PetStore.csproj",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\PetStore\\PetStore\\PetStore.csproj",
+              "RelativeDocumentMoniker": "PetStore\\PetStore.csproj",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\PetStore\\PetStore\\PetStore.csproj",
+              "RelativeToolTip": "PetStore\\PetStore.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-08T16:11:34.662Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

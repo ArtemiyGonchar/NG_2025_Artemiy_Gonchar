@@ -1,0 +1,16 @@
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\StoreManagment\StoreDAL\bin\Debug\net8.0\StoreManagmentBL.deps.json
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\StoreManagment\StoreDAL\bin\Debug\net8.0\StoreManagmentBL.dll
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\StoreManagment\StoreDAL\bin\Debug\net8.0\StoreManagmentBL.pdb
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\StoreManagment\StoreDAL\bin\Debug\net8.0\StoreManagmentDAL.dll
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\StoreManagment\StoreDAL\bin\Debug\net8.0\StoreManagmentDAL.pdb
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\StoreManagment\StoreDAL\obj\Debug\net8.0\StoreManagmentBL.csproj.AssemblyReference.cache
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\StoreManagment\StoreDAL\obj\Debug\net8.0\StoreManagmentBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\StoreManagment\StoreDAL\obj\Debug\net8.0\StoreManagmentBL.AssemblyInfoInputs.cache
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\StoreManagment\StoreDAL\obj\Debug\net8.0\StoreManagmentBL.AssemblyInfo.cs
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\StoreManagment\StoreDAL\obj\Debug\net8.0\StoreManagmentBL.csproj.CoreCompileInputs.cache
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\StoreManagment\StoreDAL\obj\Debug\net8.0\StoreManagmentBL.sourcelink.json
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\StoreManagment\StoreDAL\obj\Debug\net8.0\StoreMan.2A9E9FFF.Up2Date
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\StoreManagment\StoreDAL\obj\Debug\net8.0\StoreManagmentBL.dll
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\StoreManagment\StoreDAL\obj\Debug\net8.0\refint\StoreManagmentBL.dll
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\StoreManagment\StoreDAL\obj\Debug\net8.0\StoreManagmentBL.pdb
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\StoreManagment\StoreDAL\obj\Debug\net8.0\ref\StoreManagmentBL.dll

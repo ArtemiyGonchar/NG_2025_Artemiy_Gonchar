@@ -1,0 +1,16 @@
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\TreatmentBS\TreatmentBL\bin\Debug\net7.0\TreatmentBL.deps.json
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\TreatmentBS\TreatmentBL\bin\Debug\net7.0\TreatmentBL.dll
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\TreatmentBS\TreatmentBL\bin\Debug\net7.0\TreatmentBL.pdb
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\TreatmentBS\TreatmentBL\bin\Debug\net7.0\TreatmentDal.dll
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\TreatmentBS\TreatmentBL\bin\Debug\net7.0\TreatmentDal.pdb
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\TreatmentBS\TreatmentBL\obj\Debug\net7.0\TreatmentBL.csproj.AssemblyReference.cache
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\TreatmentBS\TreatmentBL\obj\Debug\net7.0\TreatmentBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\TreatmentBS\TreatmentBL\obj\Debug\net7.0\TreatmentBL.AssemblyInfoInputs.cache
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\TreatmentBS\TreatmentBL\obj\Debug\net7.0\TreatmentBL.AssemblyInfo.cs
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\TreatmentBS\TreatmentBL\obj\Debug\net7.0\TreatmentBL.csproj.CoreCompileInputs.cache
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\TreatmentBS\TreatmentBL\obj\Debug\net7.0\TreatmentBL.sourcelink.json
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\TreatmentBS\TreatmentBL\obj\Debug\net7.0\Treatmen.1F3FF671.Up2Date
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\TreatmentBS\TreatmentBL\obj\Debug\net7.0\TreatmentBL.dll
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\TreatmentBS\TreatmentBL\obj\Debug\net7.0\refint\TreatmentBL.dll
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\TreatmentBS\TreatmentBL\obj\Debug\net7.0\TreatmentBL.pdb
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\TreatmentBS\TreatmentBL\obj\Debug\net7.0\ref\TreatmentBL.dll

@@ -1,0 +1,12 @@
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\Sentinel\SentinelAbstraction\bin\Debug\net7.0\SentinelAbstraction.deps.json
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\Sentinel\SentinelAbstraction\bin\Debug\net7.0\SentinelAbstraction.dll
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\Sentinel\SentinelAbstraction\bin\Debug\net7.0\SentinelAbstraction.pdb
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\Sentinel\SentinelAbstraction\obj\Debug\net7.0\SentinelAbstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\Sentinel\SentinelAbstraction\obj\Debug\net7.0\SentinelAbstraction.AssemblyInfoInputs.cache
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\Sentinel\SentinelAbstraction\obj\Debug\net7.0\SentinelAbstraction.AssemblyInfo.cs
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\Sentinel\SentinelAbstraction\obj\Debug\net7.0\SentinelAbstraction.csproj.CoreCompileInputs.cache
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\Sentinel\SentinelAbstraction\obj\Debug\net7.0\SentinelAbstraction.sourcelink.json
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\Sentinel\SentinelAbstraction\obj\Debug\net7.0\SentinelAbstraction.dll
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\Sentinel\SentinelAbstraction\obj\Debug\net7.0\refint\SentinelAbstraction.dll
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\Sentinel\SentinelAbstraction\obj\Debug\net7.0\SentinelAbstraction.pdb
+C:\ng_berserk\NG_2025_Artemiy_Gonchar\Task5\Microservices\Sentinel\SentinelAbstraction\obj\Debug\net7.0\ref\SentinelAbstraction.dll

@@ -1,0 +1,525 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32804F67-D4A1-4E68-AFE5-3ABFD1ED2BD5}|Sentinel\\Sentinel.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\sentinel\\sentinel\\controllers\\storemanagmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32804F67-D4A1-4E68-AFE5-3ABFD1ED2BD5}|Sentinel\\Sentinel.csproj|solutionrelative:sentinel\\controllers\\storemanagmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32804F67-D4A1-4E68-AFE5-3ABFD1ED2BD5}|Sentinel\\Sentinel.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\sentinel\\sentinel\\controllers\\treatmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32804F67-D4A1-4E68-AFE5-3ABFD1ED2BD5}|Sentinel\\Sentinel.csproj|solutionrelative:sentinel\\controllers\\treatmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32804F67-D4A1-4E68-AFE5-3ABFD1ED2BD5}|Sentinel\\Sentinel.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\sentinel\\sentinel\\controllers\\petstorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32804F67-D4A1-4E68-AFE5-3ABFD1ED2BD5}|Sentinel\\Sentinel.csproj|solutionrelative:sentinel\\controllers\\petstorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC2B306-FF57-4A9B-A7ED-4D6EFB9B060F}|SentinelBusinessLayer\\SentinelBusinessLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\sentinel\\sentinelbusinesslayer\\service\\storemanagmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC2B306-FF57-4A9B-A7ED-4D6EFB9B060F}|SentinelBusinessLayer\\SentinelBusinessLayer.csproj|solutionrelative:sentinelbusinesslayer\\service\\storemanagmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32804F67-D4A1-4E68-AFE5-3ABFD1ED2BD5}|Sentinel\\Sentinel.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\sentinel\\sentinel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32804F67-D4A1-4E68-AFE5-3ABFD1ED2BD5}|Sentinel\\Sentinel.csproj|solutionrelative:sentinel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760CCD64-5739-44CE-B613-C2603D284527}|SentinelAbstraction\\SentinelAbstraction.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\sentinel\\sentinelabstraction\\settings\\treatmentclientsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760CCD64-5739-44CE-B613-C2603D284527}|SentinelAbstraction\\SentinelAbstraction.csproj|solutionrelative:sentinelabstraction\\settings\\treatmentclientsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC2B306-FF57-4A9B-A7ED-4D6EFB9B060F}|SentinelBusinessLayer\\SentinelBusinessLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\sentinel\\sentinelbusinesslayer\\injections\\businesslayerinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC2B306-FF57-4A9B-A7ED-4D6EFB9B060F}|SentinelBusinessLayer\\SentinelBusinessLayer.csproj|solutionrelative:sentinelbusinesslayer\\injections\\businesslayerinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC2B306-FF57-4A9B-A7ED-4D6EFB9B060F}|SentinelBusinessLayer\\SentinelBusinessLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\sentinel\\sentinelbusinesslayer\\injections\\refitinjections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC2B306-FF57-4A9B-A7ED-4D6EFB9B060F}|SentinelBusinessLayer\\SentinelBusinessLayer.csproj|solutionrelative:sentinelbusinesslayer\\injections\\refitinjections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC2B306-FF57-4A9B-A7ED-4D6EFB9B060F}|SentinelBusinessLayer\\SentinelBusinessLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\sentinel\\sentinelbusinesslayer\\models\\petdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC2B306-FF57-4A9B-A7ED-4D6EFB9B060F}|SentinelBusinessLayer\\SentinelBusinessLayer.csproj|solutionrelative:sentinelbusinesslayer\\models\\petdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC2B306-FF57-4A9B-A7ED-4D6EFB9B060F}|SentinelBusinessLayer\\SentinelBusinessLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\sentinel\\sentinelbusinesslayer\\models\\storedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC2B306-FF57-4A9B-A7ED-4D6EFB9B060F}|SentinelBusinessLayer\\SentinelBusinessLayer.csproj|solutionrelative:sentinelbusinesslayer\\models\\storedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC2B306-FF57-4A9B-A7ED-4D6EFB9B060F}|SentinelBusinessLayer\\SentinelBusinessLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\sentinel\\sentinelbusinesslayer\\models\\treatmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC2B306-FF57-4A9B-A7ED-4D6EFB9B060F}|SentinelBusinessLayer\\SentinelBusinessLayer.csproj|solutionrelative:sentinelbusinesslayer\\models\\treatmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC2B306-FF57-4A9B-A7ED-4D6EFB9B060F}|SentinelBusinessLayer\\SentinelBusinessLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\sentinel\\sentinelbusinesslayer\\models\\vendordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC2B306-FF57-4A9B-A7ED-4D6EFB9B060F}|SentinelBusinessLayer\\SentinelBusinessLayer.csproj|solutionrelative:sentinelbusinesslayer\\models\\vendordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC2B306-FF57-4A9B-A7ED-4D6EFB9B060F}|SentinelBusinessLayer\\SentinelBusinessLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\sentinel\\sentinelbusinesslayer\\service\\interface\\istoremanagmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC2B306-FF57-4A9B-A7ED-4D6EFB9B060F}|SentinelBusinessLayer\\SentinelBusinessLayer.csproj|solutionrelative:sentinelbusinesslayer\\service\\interface\\istoremanagmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC2B306-FF57-4A9B-A7ED-4D6EFB9B060F}|SentinelBusinessLayer\\SentinelBusinessLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\sentinel\\sentinelbusinesslayer\\service\\petstoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC2B306-FF57-4A9B-A7ED-4D6EFB9B060F}|SentinelBusinessLayer\\SentinelBusinessLayer.csproj|solutionrelative:sentinelbusinesslayer\\service\\petstoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC2B306-FF57-4A9B-A7ED-4D6EFB9B060F}|SentinelBusinessLayer\\SentinelBusinessLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\sentinel\\sentinelbusinesslayer\\service\\treatmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC2B306-FF57-4A9B-A7ED-4D6EFB9B060F}|SentinelBusinessLayer\\SentinelBusinessLayer.csproj|solutionrelative:sentinelbusinesslayer\\service\\treatmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC2B306-FF57-4A9B-A7ED-4D6EFB9B060F}|SentinelBusinessLayer\\SentinelBusinessLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\sentinel\\sentinelbusinesslayer\\clients\\itreatmentclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC2B306-FF57-4A9B-A7ED-4D6EFB9B060F}|SentinelBusinessLayer\\SentinelBusinessLayer.csproj|solutionrelative:sentinelbusinesslayer\\clients\\itreatmentclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC2B306-FF57-4A9B-A7ED-4D6EFB9B060F}|SentinelBusinessLayer\\SentinelBusinessLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\sentinel\\sentinelbusinesslayer\\clients\\istoremanagmentclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC2B306-FF57-4A9B-A7ED-4D6EFB9B060F}|SentinelBusinessLayer\\SentinelBusinessLayer.csproj|solutionrelative:sentinelbusinesslayer\\clients\\istoremanagmentclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760CCD64-5739-44CE-B613-C2603D284527}|SentinelAbstraction\\SentinelAbstraction.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\sentinel\\sentinelabstraction\\settings\\storemanagmentclientsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760CCD64-5739-44CE-B613-C2603D284527}|SentinelAbstraction\\SentinelAbstraction.csproj|solutionrelative:sentinelabstraction\\settings\\storemanagmentclientsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC2B306-FF57-4A9B-A7ED-4D6EFB9B060F}|SentinelBusinessLayer\\SentinelBusinessLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\sentinel\\sentinelbusinesslayer\\clients\\ipetstoreclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC2B306-FF57-4A9B-A7ED-4D6EFB9B060F}|SentinelBusinessLayer\\SentinelBusinessLayer.csproj|solutionrelative:sentinelbusinesslayer\\clients\\ipetstoreclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC2B306-FF57-4A9B-A7ED-4D6EFB9B060F}|SentinelBusinessLayer\\SentinelBusinessLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\sentinel\\sentinelbusinesslayer\\service\\interface\\ipetstoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC2B306-FF57-4A9B-A7ED-4D6EFB9B060F}|SentinelBusinessLayer\\SentinelBusinessLayer.csproj|solutionrelative:sentinelbusinesslayer\\service\\interface\\ipetstoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760CCD64-5739-44CE-B613-C2603D284527}|SentinelAbstraction\\SentinelAbstraction.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\sentinel\\sentinelabstraction\\settings\\petstoreclientsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760CCD64-5739-44CE-B613-C2603D284527}|SentinelAbstraction\\SentinelAbstraction.csproj|solutionrelative:sentinelabstraction\\settings\\petstoreclientsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32804F67-D4A1-4E68-AFE5-3ABFD1ED2BD5}|Sentinel\\Sentinel.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\sentinel\\sentinel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32804F67-D4A1-4E68-AFE5-3ABFD1ED2BD5}|Sentinel\\Sentinel.csproj|solutionrelative:sentinel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32804F67-D4A1-4E68-AFE5-3ABFD1ED2BD5}|Sentinel\\Sentinel.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\sentinel\\sentinel\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32804F67-D4A1-4E68-AFE5-3ABFD1ED2BD5}|Sentinel\\Sentinel.csproj|solutionrelative:sentinel\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC2B306-FF57-4A9B-A7ED-4D6EFB9B060F}|SentinelBusinessLayer\\SentinelBusinessLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\sentinel\\sentinelbusinesslayer\\service\\interface\\itreatmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC2B306-FF57-4A9B-A7ED-4D6EFB9B060F}|SentinelBusinessLayer\\SentinelBusinessLayer.csproj|solutionrelative:sentinelbusinesslayer\\service\\interface\\itreatmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC2B306-FF57-4A9B-A7ED-4D6EFB9B060F}|SentinelBusinessLayer\\SentinelBusinessLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\sentinel\\sentinelbusinesslayer\\enums\\contracttypebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC2B306-FF57-4A9B-A7ED-4D6EFB9B060F}|SentinelBusinessLayer\\SentinelBusinessLayer.csproj|solutionrelative:sentinelbusinesslayer\\enums\\contracttypebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32804F67-D4A1-4E68-AFE5-3ABFD1ED2BD5}|Sentinel\\Sentinel.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\sentinel\\sentinel\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32804F67-D4A1-4E68-AFE5-3ABFD1ED2BD5}|Sentinel\\Sentinel.csproj|solutionrelative:sentinel\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760CCD64-5739-44CE-B613-C2603D284527}|SentinelAbstraction\\SentinelAbstraction.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\sentinel\\sentinelabstraction\\sentinelabstraction.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{760CCD64-5739-44CE-B613-C2603D284527}|SentinelAbstraction\\SentinelAbstraction.csproj|solutionrelative:sentinelabstraction\\sentinelabstraction.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC2B306-FF57-4A9B-A7ED-4D6EFB9B060F}|SentinelBusinessLayer\\SentinelBusinessLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\sentinel\\sentinelbusinesslayer\\sentinelbusinesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FDC2B306-FF57-4A9B-A7ED-4D6EFB9B060F}|SentinelBusinessLayer\\SentinelBusinessLayer.csproj|solutionrelative:sentinelbusinesslayer\\sentinelbusinesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32804F67-D4A1-4E68-AFE5-3ABFD1ED2BD5}|Sentinel\\Sentinel.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\sentinel\\sentinel\\sentinel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{32804F67-D4A1-4E68-AFE5-3ABFD1ED2BD5}|Sentinel\\Sentinel.csproj|solutionrelative:sentinel\\sentinel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC2B306-FF57-4A9B-A7ED-4D6EFB9B060F}|SentinelBusinessLayer\\SentinelBusinessLayer.csproj|c:\\ng_berserk\\ng_2025_artemiy_gonchar\\task5\\microservices\\sentinel\\sentinelbusinesslayer\\enums\\pettypesbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC2B306-FF57-4A9B-A7ED-4D6EFB9B060F}|SentinelBusinessLayer\\SentinelBusinessLayer.csproj|solutionrelative:sentinelbusinesslayer\\enums\\pettypesbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StoreManagmentController.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\Sentinel\\Controllers\\StoreManagmentController.cs",
+              "RelativeDocumentMoniker": "Sentinel\\Controllers\\StoreManagmentController.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\Sentinel\\Controllers\\StoreManagmentController.cs",
+              "RelativeToolTip": "Sentinel\\Controllers\\StoreManagmentController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T20:27:43.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BusinessLayerInjection.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\SentinelBusinessLayer\\Injections\\BusinessLayerInjection.cs",
+              "RelativeDocumentMoniker": "SentinelBusinessLayer\\Injections\\BusinessLayerInjection.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\SentinelBusinessLayer\\Injections\\BusinessLayerInjection.cs",
+              "RelativeToolTip": "SentinelBusinessLayer\\Injections\\BusinessLayerInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T17:46:40.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StoreDto.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\SentinelBusinessLayer\\Models\\StoreDto.cs",
+              "RelativeDocumentMoniker": "SentinelBusinessLayer\\Models\\StoreDto.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\SentinelBusinessLayer\\Models\\StoreDto.cs",
+              "RelativeToolTip": "SentinelBusinessLayer\\Models\\StoreDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T20:05:10.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PetDto.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\SentinelBusinessLayer\\Models\\PetDto.cs",
+              "RelativeDocumentMoniker": "SentinelBusinessLayer\\Models\\PetDto.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\SentinelBusinessLayer\\Models\\PetDto.cs",
+              "RelativeToolTip": "SentinelBusinessLayer\\Models\\PetDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T19:28:51.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RefitInjections.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\SentinelBusinessLayer\\Injections\\RefitInjections.cs",
+              "RelativeDocumentMoniker": "SentinelBusinessLayer\\Injections\\RefitInjections.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\SentinelBusinessLayer\\Injections\\RefitInjections.cs",
+              "RelativeToolTip": "SentinelBusinessLayer\\Injections\\RefitInjections.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBYAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T14:00:43.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PetStoreController.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\Sentinel\\Controllers\\PetStoreController.cs",
+              "RelativeDocumentMoniker": "Sentinel\\Controllers\\PetStoreController.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\Sentinel\\Controllers\\PetStoreController.cs",
+              "RelativeToolTip": "Sentinel\\Controllers\\PetStoreController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T15:08:20.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TreatmentController.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\Sentinel\\Controllers\\TreatmentController.cs",
+              "RelativeDocumentMoniker": "Sentinel\\Controllers\\TreatmentController.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\Sentinel\\Controllers\\TreatmentController.cs",
+              "RelativeToolTip": "Sentinel\\Controllers\\TreatmentController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T13:48:05.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\Sentinel\\Program.cs",
+              "RelativeDocumentMoniker": "Sentinel\\Program.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\Sentinel\\Program.cs",
+              "RelativeToolTip": "Sentinel\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T13:49:02.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StoreManagmentService.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\SentinelBusinessLayer\\Service\\StoreManagmentService.cs",
+              "RelativeDocumentMoniker": "SentinelBusinessLayer\\Service\\StoreManagmentService.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\SentinelBusinessLayer\\Service\\StoreManagmentService.cs",
+              "RelativeToolTip": "SentinelBusinessLayer\\Service\\StoreManagmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T20:19:03.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TreatmentDto.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\SentinelBusinessLayer\\Models\\TreatmentDto.cs",
+              "RelativeDocumentMoniker": "SentinelBusinessLayer\\Models\\TreatmentDto.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\SentinelBusinessLayer\\Models\\TreatmentDto.cs",
+              "RelativeToolTip": "SentinelBusinessLayer\\Models\\TreatmentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T13:47:34.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VendorDto.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\SentinelBusinessLayer\\Models\\VendorDto.cs",
+              "RelativeDocumentMoniker": "SentinelBusinessLayer\\Models\\VendorDto.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\SentinelBusinessLayer\\Models\\VendorDto.cs",
+              "RelativeToolTip": "SentinelBusinessLayer\\Models\\VendorDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T20:02:02.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IStoreManagmentService.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\SentinelBusinessLayer\\Service\\Interface\\IStoreManagmentService.cs",
+              "RelativeDocumentMoniker": "SentinelBusinessLayer\\Service\\Interface\\IStoreManagmentService.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\SentinelBusinessLayer\\Service\\Interface\\IStoreManagmentService.cs",
+              "RelativeToolTip": "SentinelBusinessLayer\\Service\\Interface\\IStoreManagmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T20:07:17.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TreatmentClientSettings.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\SentinelAbstraction\\Settings\\TreatmentClientSettings.cs",
+              "RelativeDocumentMoniker": "SentinelAbstraction\\Settings\\TreatmentClientSettings.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\SentinelAbstraction\\Settings\\TreatmentClientSettings.cs",
+              "RelativeToolTip": "SentinelAbstraction\\Settings\\TreatmentClientSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T13:47:16.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PetStoreService.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\SentinelBusinessLayer\\Service\\PetStoreService.cs",
+              "RelativeDocumentMoniker": "SentinelBusinessLayer\\Service\\PetStoreService.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\SentinelBusinessLayer\\Service\\PetStoreService.cs",
+              "RelativeToolTip": "SentinelBusinessLayer\\Service\\PetStoreService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAEwCMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T19:07:20.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TreatmentService.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\SentinelBusinessLayer\\Service\\TreatmentService.cs",
+              "RelativeDocumentMoniker": "SentinelBusinessLayer\\Service\\TreatmentService.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\SentinelBusinessLayer\\Service\\TreatmentService.cs",
+              "RelativeToolTip": "SentinelBusinessLayer\\Service\\TreatmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T13:47:57.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ITreatmentClient.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\SentinelBusinessLayer\\Clients\\ITreatmentClient.cs",
+              "RelativeDocumentMoniker": "SentinelBusinessLayer\\Clients\\ITreatmentClient.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\SentinelBusinessLayer\\Clients\\ITreatmentClient.cs",
+              "RelativeToolTip": "SentinelBusinessLayer\\Clients\\ITreatmentClient.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T17:46:28.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IStoreManagmentClient.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\SentinelBusinessLayer\\Clients\\IStoreManagmentClient.cs",
+              "RelativeDocumentMoniker": "SentinelBusinessLayer\\Clients\\IStoreManagmentClient.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\SentinelBusinessLayer\\Clients\\IStoreManagmentClient.cs",
+              "RelativeToolTip": "SentinelBusinessLayer\\Clients\\IStoreManagmentClient.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T20:11:16.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StoreManagmentClientSettings.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\SentinelAbstraction\\Settings\\StoreManagmentClientSettings.cs",
+              "RelativeDocumentMoniker": "SentinelAbstraction\\Settings\\StoreManagmentClientSettings.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\SentinelAbstraction\\Settings\\StoreManagmentClientSettings.cs",
+              "RelativeToolTip": "SentinelAbstraction\\Settings\\StoreManagmentClientSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T20:10:21.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IPetStoreClient.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\SentinelBusinessLayer\\Clients\\IPetStoreClient.cs",
+              "RelativeDocumentMoniker": "SentinelBusinessLayer\\Clients\\IPetStoreClient.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\SentinelBusinessLayer\\Clients\\IPetStoreClient.cs",
+              "RelativeToolTip": "SentinelBusinessLayer\\Clients\\IPetStoreClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:13:15.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IPetStoreService.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\SentinelBusinessLayer\\Service\\Interface\\IPetStoreService.cs",
+              "RelativeDocumentMoniker": "SentinelBusinessLayer\\Service\\Interface\\IPetStoreService.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\SentinelBusinessLayer\\Service\\Interface\\IPetStoreService.cs",
+              "RelativeToolTip": "SentinelBusinessLayer\\Service\\Interface\\IPetStoreService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T19:21:25.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PetStoreClientSettings.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\SentinelAbstraction\\Settings\\PetStoreClientSettings.cs",
+              "RelativeDocumentMoniker": "SentinelAbstraction\\Settings\\PetStoreClientSettings.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\SentinelAbstraction\\Settings\\PetStoreClientSettings.cs",
+              "RelativeToolTip": "SentinelAbstraction\\Settings\\PetStoreClientSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T12:37:29.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\Sentinel\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Sentinel\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\Sentinel\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Sentinel\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-09T12:37:40.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ITreatmentService.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\SentinelBusinessLayer\\Service\\Interface\\ITreatmentService.cs",
+              "RelativeDocumentMoniker": "SentinelBusinessLayer\\Service\\Interface\\ITreatmentService.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\SentinelBusinessLayer\\Service\\Interface\\ITreatmentService.cs",
+              "RelativeToolTip": "SentinelBusinessLayer\\Service\\Interface\\ITreatmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T13:47:55.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\Sentinel\\appsettings.json",
+              "RelativeDocumentMoniker": "Sentinel\\appsettings.json",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\Sentinel\\appsettings.json",
+              "RelativeToolTip": "Sentinel\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-09T12:37:44.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ContractTypeBL.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\SentinelBusinessLayer\\Enums\\ContractTypeBL.cs",
+              "RelativeDocumentMoniker": "SentinelBusinessLayer\\Enums\\ContractTypeBL.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\SentinelBusinessLayer\\Enums\\ContractTypeBL.cs",
+              "RelativeToolTip": "SentinelBusinessLayer\\Enums\\ContractTypeBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T20:03:41.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\Sentinel\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Sentinel\\appsettings.Development.json",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\Sentinel\\appsettings.Development.json",
+              "RelativeToolTip": "Sentinel\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-17T22:39:18.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SentinelAbstraction.csproj",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\SentinelAbstraction\\SentinelAbstraction.csproj",
+              "RelativeDocumentMoniker": "SentinelAbstraction\\SentinelAbstraction.csproj",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\SentinelAbstraction\\SentinelAbstraction.csproj",
+              "RelativeToolTip": "SentinelAbstraction\\SentinelAbstraction.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-17T22:35:59.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SentinelBusinessLayer.csproj",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\SentinelBusinessLayer\\SentinelBusinessLayer.csproj",
+              "RelativeDocumentMoniker": "SentinelBusinessLayer\\SentinelBusinessLayer.csproj",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\SentinelBusinessLayer\\SentinelBusinessLayer.csproj",
+              "RelativeToolTip": "SentinelBusinessLayer\\SentinelBusinessLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-17T22:36:02.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Sentinel.csproj",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\Sentinel\\Sentinel.csproj",
+              "RelativeDocumentMoniker": "Sentinel\\Sentinel.csproj",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\Sentinel\\Sentinel.csproj",
+              "RelativeToolTip": "Sentinel\\Sentinel.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-17T21:28:35.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PetTypesBL.cs",
+              "DocumentMoniker": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\SentinelBusinessLayer\\Enums\\PetTypesBL.cs",
+              "RelativeDocumentMoniker": "SentinelBusinessLayer\\Enums\\PetTypesBL.cs",
+              "ToolTip": "C:\\ng_berserk\\NG_2025_Artemiy_Gonchar\\Task5\\Microservices\\Sentinel\\SentinelBusinessLayer\\Enums\\PetTypesBL.cs",
+              "RelativeToolTip": "SentinelBusinessLayer\\Enums\\PetTypesBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T19:33:06.198Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
