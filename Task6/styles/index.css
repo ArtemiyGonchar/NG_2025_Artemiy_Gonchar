@@ -1,0 +1,228 @@
+
+.parent-top{
+    display: flex;
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.parent-container {
+    display: flex;
+    gap: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+ .parent-top-big-container{
+    background-image: url(../template/content/section_1.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 600px;
+    border-radius: 15px;
+} 
+
+.parent-top-big-container p{
+    font-family:  "Akshar", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    padding: 20px 0px 0px 20px;
+}
+
+.parent-top-big-container h1{
+    font-family:  "Akshar", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-weight: 450;
+    padding: 0px 20px 0px 20px;
+}
+
+.parent-top-small-container p{
+    font-family:  "Akshar", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    padding: 20px 0px 0px 20px;
+}
+
+.parent-top-small-container h1{
+    font-family:  "Akshar", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-weight: 450;
+    padding: 0px 20px 0px 20px;
+}
+.parent-top-small-container2 p{
+    font-family:  "Akshar", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    padding: 20px 0px 0px 20px;
+}
+
+.parent-top-small-container2 h1{
+    font-family:  "Akshar", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-weight: 450;
+    padding: 0px 20px 0px 20px;
+}
+
+.right-column{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.parent-top-small-container{
+    background-image: url(../template/content/section_2.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 190px;
+    width: 600px;
+    border-radius: 15px;
+} 
+
+.parent-top-small-container2{
+    background-image: url(../template/content/section_3.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 190px;
+    width: 600px;
+    border-radius: 15px;
+} 
+
+.yellow-box{
+    background-color: rgb(255, 196, 0);
+    display: flex;
+    height: 40px;
+    width: 200px;
+    margin: 25px auto;
+    align-items: center;
+    justify-content: center;
+    padding-left: 0px;
+}
+
+.yellow-box p{
+    font-family:  "Akshar", sans-serif;
+    color: rgb(61, 22, 4);
+    font-size: 20px;
+    margin: 0px;
+    line-height: 0;
+    /* padding: 20px 0px 0px 20px; */
+    padding: 5px;
+}
+
+.bigtext {
+    font-family:  "Akshar", sans-serif;
+    color: rgb(61, 22, 4);
+    font-size: 40px;
+    display: flex;
+    margin: 25px auto;
+}
+
+.smalltext {
+    font-family:  "Baloo 2", sans-serif;
+    color: rgb(61, 22, 4);
+    font-size: 20px;
+    margin: 0px auto;
+    max-width: 900px;
+    text-align: center;
+}
+
+.bottom-container {
+    display: flex;
+    gap: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.card{
+    text-align: center;
+    background-color: rgb(255, 242, 218);
+}
+
+.card h1{
+    font-family:  "Baloo 2", sans-serif;
+    color: rgb(61, 22, 4);
+    font-size: 30px;
+    margin: 0px auto;
+    max-width: 900px;
+    text-align: center;
+}
+.card p{
+    font-family:  "Baloo 2", sans-serif;
+    color: rgb(61, 22, 4);
+    font-size: 15px;
+    margin: 0px auto;
+    max-width: 900px;
+    text-align: center;
+}
+
+.card button {
+    border: 0px;
+    height: 40px;
+    margin: 10px auto;
+    padding: 3px 15px;
+    font-family: "Akshar", sans-serif;
+    font-size: large;
+    color: white;
+    background-color: rgb(197, 38, 38);
+}
+
+.card button:hover{
+    background-color: rgb(177, 35, 35);
+}
+
+.card button:active{
+    background-color: rgb(146, 29, 29);
+}
+
+.bottom-box-container{
+    box-shadow: 8px 8px 19px 2px rgb(133, 120, 120);
+    display: flex;
+    gap: 20px;
+    width: 1200px;
+    height: 400px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.text-container{
+    background-color: rgb(255, 255, 255);
+    flex: 2;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+
+.text-container h2{
+    font-family:  "Baloo 2", sans-serif;
+    color: rgb(61, 22, 4);
+    font-size: 25px;
+    margin: 0px auto;
+    max-width: 900px;
+    text-align: left;
+}
+
+.text-container h1{
+    font-family:  "Akshar", sans-serif;
+    color: rgb(61, 22, 4);
+    font-size: 30px;
+    margin: 0px auto;
+    max-width: 900px;
+    text-align: left;
+}
+
+.text-container p{
+    font-family:  "Baloo 2", sans-serif;
+    color: rgb(61, 22, 4);
+    font-size: 20px;
+    margin: 0px auto;
+    max-width: 900px;
+    text-align: left;
+}
