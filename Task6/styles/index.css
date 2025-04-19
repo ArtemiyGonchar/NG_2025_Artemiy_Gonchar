@@ -1,13 +1,13 @@
-
+/* 
 .parent-top{
     display: flex;
     max-width: 1200px;
     width: 100%;
     margin: 0 auto;
     padding: 20px;
-}
+} */
 
-.parent-container {
+.parent-container-top {
     display: flex;
     gap: 20px;
     max-width: 1200px;
@@ -15,7 +15,7 @@
     padding: 20px;
 }
 
- .parent-top-big-container{
+ .parent-container-top-left-card{
     background-image: url(../template/content/section_1.png);
     background-size: cover;
     background-position: center;
@@ -25,14 +25,14 @@
     border-radius: 15px;
 } 
 
-.parent-top-big-container p{
+.parent-container-top-left-card p{
     font-family:  "Akshar", sans-serif;
     color: rgb(255, 255, 255);
     font-size: 20px;
     padding: 20px 0px 0px 20px;
 }
 
-.parent-top-big-container h1{
+.parent-container-top-left-card h1{
     font-family:  "Akshar", sans-serif;
     color: rgb(255, 255, 255);
     font-size: 30px;
@@ -40,28 +40,28 @@
     padding: 0px 20px 0px 20px;
 }
 
-.parent-top-small-container p{
+.parent-top-right-card p{
     font-family:  "Akshar", sans-serif;
     color: rgb(255, 255, 255);
     font-size: 20px;
     padding: 20px 0px 0px 20px;
 }
 
-.parent-top-small-container h1{
+.parent-top-right-card h1{
     font-family:  "Akshar", sans-serif;
     color: rgb(255, 255, 255);
     font-size: 30px;
     font-weight: 450;
     padding: 0px 20px 0px 20px;
 }
-.parent-top-small-container2 p{
+.parent-top-right-card2 p{
     font-family:  "Akshar", sans-serif;
     color: rgb(255, 255, 255);
     font-size: 20px;
     padding: 20px 0px 0px 20px;
 }
 
-.parent-top-small-container2 h1{
+.parent-top-right-card2 h1{
     font-family:  "Akshar", sans-serif;
     color: rgb(255, 255, 255);
     font-size: 30px;
@@ -69,14 +69,14 @@
     padding: 0px 20px 0px 20px;
 }
 
-.right-column{
+.parent-container-top-right-column{
     flex: 1;
     display: flex;
     flex-direction: column;
     gap: 20px;
 }
 
-.parent-top-small-container{
+.parent-top-right-card{
     background-image: url(../template/content/section_2.png);
     background-size: cover;
     background-position: center;
@@ -86,7 +86,7 @@
     border-radius: 15px;
 } 
 
-.parent-top-small-container2{
+.parent-top-right-card2{
     background-image: url(../template/content/section_3.png);
     background-size: cover;
     background-position: center;
@@ -96,7 +96,7 @@
     border-radius: 15px;
 } 
 
-.yellow-box{
+.mid-yellow-box{
     background-color: rgb(255, 196, 0);
     display: flex;
     height: 40px;
@@ -107,7 +107,7 @@
     padding-left: 0px;
 }
 
-.yellow-box p{
+.mid-yellow-box p{
     font-family:  "Akshar", sans-serif;
     color: rgb(61, 22, 4);
     font-size: 20px;
@@ -117,7 +117,7 @@
     padding: 5px;
 }
 
-.bigtext {
+.mid-bigtext {
     font-family:  "Akshar", sans-serif;
     color: rgb(61, 22, 4);
     font-size: 40px;
@@ -125,7 +125,7 @@
     margin: 25px auto;
 }
 
-.smalltext {
+.mid-smalltext {
     font-family:  "Baloo 2", sans-serif;
     color: rgb(61, 22, 4);
     font-size: 20px;
@@ -134,7 +134,7 @@
     text-align: center;
 }
 
-.bottom-container {
+.parent-container-mid {
     display: flex;
     gap: 20px;
     max-width: 1200px;
@@ -142,12 +142,12 @@
     padding: 20px;
 }
 
-.card{
+.card-mid{
     text-align: center;
     background-color: rgb(255, 242, 218);
 }
 
-.card h1{
+.card-mid h1{
     font-family:  "Baloo 2", sans-serif;
     color: rgb(61, 22, 4);
     font-size: 30px;
@@ -155,7 +155,7 @@
     max-width: 900px;
     text-align: center;
 }
-.card p{
+.card-mid p{
     font-family:  "Baloo 2", sans-serif;
     color: rgb(61, 22, 4);
     font-size: 15px;
@@ -164,7 +164,7 @@
     text-align: center;
 }
 
-.card button {
+.card-mid button {
     border: 0px;
     height: 40px;
     margin: 10px auto;
@@ -175,15 +175,15 @@
     background-color: rgb(197, 38, 38);
 }
 
-.card button:hover{
+.card-mid button:hover{
     background-color: rgb(177, 35, 35);
 }
 
-.card button:active{
+.card-mid button:active{
     background-color: rgb(146, 29, 29);
 }
 
-.bottom-box-container{
+.parent-container-bottom{
     box-shadow: 8px 8px 19px 2px rgb(133, 120, 120);
     display: flex;
     gap: 20px;
@@ -193,14 +193,14 @@
     padding: 20px;
 }
 
-.text-container{
+.text-container-bottom{
     background-color: rgb(255, 255, 255);
     flex: 2;
     margin-left: 20px;
     margin-top: 15px;
 }
 
-.text-container h2{
+.text-container-bottom h2{
     font-family:  "Baloo 2", sans-serif;
     color: rgb(61, 22, 4);
     font-size: 25px;
@@ -209,7 +209,7 @@
     text-align: left;
 }
 
-.text-container h1{
+.text-container-bottom h1{
     font-family:  "Akshar", sans-serif;
     color: rgb(61, 22, 4);
     font-size: 30px;
@@ -218,7 +218,7 @@
     text-align: left;
 }
 
-.text-container p{
+.text-container-bottom p{
     font-family:  "Baloo 2", sans-serif;
     color: rgb(61, 22, 4);
     font-size: 20px;
