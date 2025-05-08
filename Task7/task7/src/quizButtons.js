@@ -1,6 +1,9 @@
 import { getCharacter } from 'rickmortyapi'
 export async function quizButtons(characterId){
     let difficulty = localStorage.getItem('Difficulty');
+    if (difficulty == null){
+        difficulty = "easy";
+    }
     difficulty = difficulty.replaceAll('"', '');
 
 
